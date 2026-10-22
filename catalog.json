@@ -1,0 +1,1965 @@
+[
+ {
+  "path": "cloud-common-services/administrator.html",
+  "tier": 1,
+  "title": "Administrator | Current Version",
+  "version_page": "/cloud-common-services/administrator/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/cloud-common-services/administrator/current-version/en/Administrator_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/cloud-common-services/administrator/h2l/1297-secure-agent-quick-start-for-windows.html",
+   "/cloud-common-services/administrator/h2l/1382-how-to--install-and-configure-informatica-intelligent-cloud.html",
+   "/cloud-common-services/administrator/h2l/1382-install-and-configure-informatica-intelligent-cloud-service.html",
+   "/cloud-common-services/administrator/h2l/1414-getting-started-with-informatica-intelligent-cloud-services.html",
+   "/cloud-common-services/administrator/h2l/1423-informatica-intelligent-cloud-services-for-snowflake-accele.html",
+   "/cloud-common-services/administrator/h2l/1449-secure-agent-quick-start-for-linux.html",
+   "/cloud-common-services/administrator/h2l/1519-roll-back-source-controlled-assets-to-previous-versions.html",
+   "/cloud-common-services/administrator/h2l/1591-setting-up-scim-with-azure-active-directory.html",
+   "/cloud-common-services/administrator/h2l/1592-setting-up-scim-with-okta.html",
+   "/cloud-common-services/administrator/h2l/1667-deploy-and-configure-informatica-intelligent-cloud-services.html",
+   "/cloud-common-services/administrator/h2l/1696-aws-privatelink-onboarding-guide-for-informatica-intelligen.html",
+   "/cloud-common-services/administrator/h2l/1708-deploy-and-configure-informatica-intelligent-data-managemen.html",
+   "/cloud-common-services/administrator/h2l/1752-enable-customer-managed-keys-for-your-organization-on-googl.html",
+   "/cloud-common-services/administrator/h2l/1753-enable-customer-managed-keys-for-your-organization-on-micro.html",
+   "/cloud-common-services/administrator/h2l/1754-enable-customer-managed-keys-for-your-organization-on-amazo.html",
+   "/cloud-common-services/administrator/h2l/1760-install-and-configure-informatica-intelligent-cloud-service.html",
+   "/cloud-common-services/administrator/h2l/1772-release-readiness.html",
+   "/cloud-common-services/administrator/h2l/1777-microsoft-azure-private-link-onboarding-guide-for-informati.html",
+   "/cloud-common-services/administrator/h2l/1778-configure-cloud-data-integration-free-on-azure-native-isv-s.html",
+   "/cloud-common-services/administrator/h2l/1824-set-up-oauth-with-azure-ad.html",
+   "/cloud-common-services/administrator/h2l/1825-set-up-oauth-with-okta.html",
+   "/cloud-common-services/administrator/h2l/1827-service-status-and-communications.html",
+   "/cloud-common-services/administrator/h2l/1848-aws-privatelink-onboarding-guide-for-organizations-subject-.html",
+   "/cloud-common-services/administrator/h2l/1861-configure-azure-key-vault-on-the-azure-portal.html",
+   "/cloud-common-services/administrator/h2l/1862-configure-hashicorp-vault-for-informatica-intelligent-cloud.html",
+   "/cloud-common-services/administrator/h2l/1868-configure-aws-secrets-manager.html",
+   "/cloud-common-services/administrator/h2l/1869-troubleshooting-private-clusters.html"
+  ]
+ },
+ {
+  "path": "cloud-common-services/idmc-glossary-of-terms.html",
+  "tier": 1,
+  "title": "IDMC Glossary of Terms | Current Version",
+  "version_page": "/cloud-common-services/idmc-glossary-of-terms/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/cloud-common-services/idmc-glossary-of-terms/current-version/en/IDMCGlossaryofTerms_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "cloud-common-services/idmc-upgrade-reference-and-troubleshooting.html",
+  "tier": 1,
+  "title": "IDMC Upgrade Reference and Troubleshooting | Current Version",
+  "version_page": "/cloud-common-services/idmc-upgrade-reference-and-troubleshooting/current-version.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "cloud-common-services/monitor.html",
+  "tier": 1,
+  "title": "Monitor | Current Version",
+  "version_page": "/cloud-common-services/monitor/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/cloud-common-services/monitor/current-version/en/Monitor_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "cloud-common-services/operational-insights.html",
+  "tier": 1,
+  "title": "Operational Insights | Current Version",
+  "version_page": "/cloud-common-services/operational-insights/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/cloud-common-services/operational-insights/current-version/en/OperationalInsights_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "cloud-common-services/pod-availability-and-networking.html",
+  "tier": 1,
+  "title": "POD Availability and Networking | Current Version",
+  "version_page": "/cloud-common-services/pod-availability-and-networking/current-version.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "data-integration/common-content-for-data-integration.html",
+  "tier": 1,
+  "title": "Common Content for Data Integration | 10.5.11",
+  "version_page": "/data-integration/common-content-for-data-integration/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/shared-content-for-data-integration/10-5-11/en/CommonContentforDataIntegration_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/common-content-for-data-integration/h2l/0700-how-to-create-keystore-and-truststore-files-for-secure-comm.html",
+   "/data-integration/common-content-for-data-integration/h2l/1101-tuning-the-hardware-and-hadoop-cluster-for-informatica-big-.html",
+   "/data-integration/common-content-for-data-integration/h2l/1214-configuring-git-version-control-for-model-repository-servic.html",
+   "/data-integration/common-content-for-data-integration/h2l/1459-enabling-saml-authentication-with-netscaler-for-web-applica.html"
+  ]
+ },
+ {
+  "path": "data-integration/powercenter.html",
+  "tier": 1,
+  "title": "PowerCenter | 10.5.11",
+  "version_page": "/data-integration/powercenter/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/powercenter/10-5-11/en/PowerCenter_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/powercenter/h2l/0234-using-the-sql-transformation-in-an-informatica-developer-ma.html",
+   "/data-integration/powercenter/h2l/0235-running-a-workflow-on-a-powercenter-grid.html",
+   "/data-integration/powercenter/h2l/0236-using-groups-and-roles-to-manage-informatica-access-control.html",
+   "/data-integration/powercenter/h2l/0282-entering-an-adabas-fdt-password-for-capxrt-database-row-tes.html",
+   "/data-integration/powercenter/h2l/0310-configuring-https-for-the-administrator-tool-using-a-certif.html",
+   "/data-integration/powercenter/h2l/0371-using-parameters-for-general-session-properties.html",
+   "/data-integration/powercenter/h2l/0425-powercenter-repository-maintenance.html",
+   "/data-integration/powercenter/h2l/0427-increasing-performance-for-powercenter-sessions-that-use-pa.html",
+   "/data-integration/powercenter/h2l/0441-using-powercenter-to-process-flat-files-in-real-time.html",
+   "/data-integration/powercenter/h2l/0450-setting-up-disaster-recovery-for-powercenter.html",
+   "/data-integration/powercenter/h2l/0473-creating-a-data-processor-transformation-for-an-xml-source.html",
+   "/data-integration/powercenter/h2l/0490-implementing-data-masking-and-data-subset-with-sequential-o.html",
+   "/data-integration/powercenter/h2l/0534-how-to-use-full-pushdown-optimization-in-powercenter.html",
+   "/data-integration/powercenter/h2l/0558-informatica-architecture--nodes-and-domains.html",
+   "/data-integration/powercenter/h2l/0563-configure-an-odbc-connection-to-sap-hana.html",
+   "/data-integration/powercenter/h2l/0596-testing-xml-data-with-informatica-data-validation-option.html",
+   "/data-integration/powercenter/h2l/0696-implementing-data-masking-and-data-subset-with-ims-unload-f.html",
+   "/data-integration/powercenter/h2l/0769-business-glossary-documentation-quick-reference.html",
+   "/data-integration/powercenter/h2l/0827-business-glossary-best-practices.html",
+   "/data-integration/powercenter/h2l/0839-sizing-guidelines-and-performance-tuning-for-metadata-manag.html",
+   "/data-integration/powercenter/h2l/0846-data-validation-option-best-practices.html",
+   "/data-integration/powercenter/h2l/0849-team-based-development-in-the-powercenter-repository-and-th.html",
+   "/data-integration/powercenter/h2l/0867-informatica-port-administration.html",
+   "/data-integration/powercenter/h2l/0929-migrating-objects-from-a-model-repository-to-a-powercenter-.html",
+   "/data-integration/powercenter/h2l/0934-migrating-mappings-and-mapplets-from-a-powercenter-reposito.html",
+   "/data-integration/powercenter/h2l/0939-how-to-migrate-microsoft-sql-server-connections-from-the-ol.html",
+   "/data-integration/powercenter/h2l/0944-how-to-connect-to-a-microsoft-sql-server-database-that-uses.html",
+   "/data-integration/powercenter/h2l/0948-using-two-factor-authentication-to-connect-to-a-kerberos-en.html",
+   "/data-integration/powercenter/h2l/0949-configuring-secure-communication-to-microsoft-sql-server-in.html",
+   "/data-integration/powercenter/h2l/0956-configuring-sftp-connections-in-powercenter-.html",
+   "/data-integration/powercenter/h2l/0962-how-to-configure-oracle-single-client-access-name--scan--in.html",
+   "/data-integration/powercenter/h2l/0996-supported-upgrade-paths-to-informatica-10-2.html",
+   "/data-integration/powercenter/h2l/1011-data-validation-option-integration-with-cloudera.html",
+   "/data-integration/powercenter/h2l/1012-data-validation-option-integration-with-hortonworks.html",
+   "/data-integration/powercenter/h2l/1052-installing-and-configuring-powercenter-in-the-aws-cloud.html",
+   "/data-integration/powercenter/h2l/1078-configuring-the-simba-odbc-driver-for-mongodb.html",
+   "/data-integration/powercenter/h2l/1089-configuring-kerberos-authentication-in-an-informatica-domai.html",
+   "/data-integration/powercenter/h2l/1108-deploying-powercenter-on-aws-icmp-infrastructure.html",
+   "/data-integration/powercenter/h2l/1127-how-to-configure-mapr-hive-odbc-connector-with-powercenter-.html",
+   "/data-integration/powercenter/h2l/1128-how-to-configure-hortonworks-odbc-driver-for-apache-hive-wi.html",
+   "/data-integration/powercenter/h2l/1129-how-to-configure-hive-odbc-connector-for-cloudera-enterpris.html",
+   "/data-integration/powercenter/h2l/1215-connecting-to-oracle-database-cloud-service-from-informatic.html",
+   "/data-integration/powercenter/h2l/1316-how-to-configure-powercenter-10-2-hotfix-2-on-kubernetes.html",
+   "/data-integration/powercenter/h2l/1318-installing-and-configuring-powercenter-10-2-in-the-aws-clou.html",
+   "/data-integration/powercenter/h2l/1333-how-to-implement-powercenter-on-microsoft-azure.html",
+   "/data-integration/powercenter/h2l/1380-deploying-the-informatica--powercenter-10-4-0-aws-marketpla.html",
+   "/data-integration/powercenter/h2l/1388-reading-data-from-sap-hana-modelling-views-using-powercente.html",
+   "/data-integration/powercenter/h2l/1407-deploying-the-informatica--powercenter--10-4-0-microsoft-az.html",
+   "/data-integration/powercenter/h2l/1437-enable-proxy-user-support-for-oracle-databases-in-powercent.html",
+   "/data-integration/powercenter/h2l/1447-connect-to-oracle-using-oracle-connection-manager-from-powe.html",
+   "/data-integration/powercenter/h2l/1481-deploy-the-informatica--powercenter-solution-on-the-microso.html",
+   "/data-integration/powercenter/h2l/1488-install-powercenter-on-kubernetes-with-the-container-utilit.html",
+   "/data-integration/powercenter/h2l/1490-install-powercenter-on-docker-with-the-container-utility--1.html",
+   "/data-integration/powercenter/h2l/1497-deploy-the--informatica--powercenter-solution-on-the-aws-cl.html",
+   "/data-integration/powercenter/h2l/1501-using-sequelink-to-access-data.html",
+   "/data-integration/powercenter/h2l/1555-install-powercenter--10-4-x---10-5--on-docker-with-informat.html",
+   "/data-integration/powercenter/h2l/1557-install-powercenter-10-5-on-kubernetes-with-informatica-dep.html",
+   "/data-integration/powercenter/h2l/1572-deploy--powercenter-on-the-aws-cloud-marketplace--10-5-.html",
+   "/data-integration/powercenter/h2l/1579-10-5-upgrade-paths.html",
+   "/data-integration/powercenter/h2l/1588-deploy-the-informatica--powercenter-solution-on-the-microso.html",
+   "/data-integration/powercenter/h2l/1610-install-powercenter-on-docker-with-informatica-deployment-m.html",
+   "/data-integration/powercenter/h2l/1612-install-powercenter-on-kubernetes-with-informatica-deployme.html",
+   "/data-integration/powercenter/h2l/1634-deploy--powercenter-on-the-aws-cloud-marketplace--10-5-1-.html",
+   "/data-integration/powercenter/h2l/1634-deploy--powercenter-on-the-aws-cloud-marketplace--10-5-1-1-.html",
+   "/data-integration/powercenter/h2l/1643-deploy-the-informatica--10-5-1-1--powercenter-solution-on-t.html",
+   "/data-integration/powercenter/h2l/1643-deploy-the-informatica--powercenter-solution-on-the-microso.html",
+   "/data-integration/powercenter/h2l/1677-deploy--powercenter-on-the-aws-u-s--intelligence-community-.html",
+   "/data-integration/powercenter/h2l/1699-deploy-the-informatica---powercenter-solution-on-the-aws-cl.html",
+   "/data-integration/powercenter/h2l/1721-install-powercenter-on-kubernetes-with-informatica-deployme.html",
+   "/data-integration/powercenter/h2l/1723-install-powercenter-on-docker-with-informatica-deployment-m.html",
+   "/data-integration/powercenter/h2l/1735-deploy-the-informatica---powercenter-solution-on-the-aws-cl.html",
+   "/data-integration/powercenter/h2l/1745-deploy-the-informatica--10-5-3--powercenter-solution-on-the.html",
+   "/data-integration/powercenter/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-integration/powercenter/h2l/configuring-http-streaming-for-sap-abap-table-reader-mappings-in.html",
+   "/data-integration/powercenter/h2l/configuring-saml-based-single-sign-on-for-informatica-10-1-1-web.html",
+   "/data-integration/powercenter/h2l/deploy-the-informatica--powercenter-solution-on-the-microsoft-az.html",
+   "/data-integration/powercenter/h2l/deploying-the-informatica--powercenter--10-4-0-microsoft-azure-m.html",
+   "/data-integration/powercenter/h2l/enabling-saml-authentication-in-an-informatica-10-2-x-domain.html",
+   "/data-integration/powercenter/h2l/improving-the-performance-of-the-powercenter-repository.html",
+   "/data-integration/powercenter/h2l/install-powercenter-with-the-container-utility-on-kubernetes--10.html"
+  ]
+ },
+ {
+  "path": "data-integration/powerexchange-adapters-for-informatica.html",
+  "tier": 1,
+  "title": "PowerExchange Adapters for Informatica | 10.5.11",
+  "version_page": "/data-integration/powerexchange-adapters-for-informatica/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/powerexchange-adapters-for-informatica/10-5-11/en/PowerExchangeAdaptersforInformatica_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0536-configuring-powerexchange-for-sap-netweaver-in-a-load-balan.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0897-using-powerexchange-for-ldap-to-update-information-in-activ.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0915-best-practices-for-optimizing-performance-in-powerexchange-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0953-downloading-and-installing-the-sap-netweaver-rfc-sdk-librar.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0961-using-ssl-to-connect-to-a-greenplum-database-in-powerexchan.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/0990-performance-tuning-guidelines-to-read-data-from-or-write-da.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1044-configuring-powerexchange-for-teradata-parallel-transporter.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1111-performance-tuning-and-sizing-guidelines-for-powerexchange-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1233-performance-tuning-guidelines-for-powerexchange-for-microso.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1240-configuring-iam-authentication-for-powerexchange-for-amazon.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1241-configuring-aws-iam-authentication-for-powerexchange-for-am.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1269-performance-tuning-guidelines-for-powerexchange-for-google-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1272-performance-tuning-and-sizing-guidelines-for-powerexchange-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1281-performance-tuning-guidelines-for-powerexchange-for-microso.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1282-performance-guidelines-for-databricks-for-powerexchange-for.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1283-performance-tuning-guidelines-for-databricks-for-powerexcha.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1293-amazon-redshift-connector-best-practices.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1293-amazon-redshift-connector-best-practices/abstract.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1313-configuring-pushdown-optimization-for-powerexchange-for-ama.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1357-prerequisites-to-create-a-microsoft-azure-data-lake-storage.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1362-https-configuration-for-table-reader-mappings-in-streaming-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1384-configuring-optimized-spark-mode-for-powerexchange-for-goog.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1385-performance-tuning-guidelines-for-powerexchange-for-google-.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1400-performance-tuning-guidelines-for-powerexchange-for-jdbc-v2.html",
+   "/data-integration/powerexchange-adapters-for-informatica/h2l/1455-optimizing-performance-of-an-sap-table-data-extraction-mapp.html"
+  ]
+ },
+ {
+  "path": "data-integration/powerexchange-adapters-for-powercenter.html",
+  "tier": 1,
+  "title": "PowerExchange Adapters for PowerCenter | 10.5.11",
+  "version_page": "/data-integration/powerexchange-adapters-for-powercenter/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/powerexchange-adapters-for-powercenter/10-5-11/en/PowerExchangeAdaptersforPowerCenter_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/0536-configuring-powerexchange-for-sap-netweaver-in-a-load-balan.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/0647-how-to-configure-sap-bci-delta-initialization-without-trans.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1034-how-to-configure-the-sap-secure-network-communication-proto.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1145-configuring-http-streaming-for-sap-abap-table-reader-mappin.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1203-frequently-asked-questions-for-powerexchange-for-google-big/abstract.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1263-frequently-asked-questions-for-powerexchange-for-snowflake-/abstract.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1293-amazon-redshift-connector-best-practices/abstract.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1373-importing-kafka-topics-in-binary-format-in-powercenter.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1374-frequently-asked-questions-for-powerexchange-for-kafka-for-.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1389-https-configuration-for-table-reader-mappings-with-powerexc.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1456-performance-tuning-guidelines-for-powerexchange-for-sap-dyn.html",
+   "/data-integration/powerexchange-adapters-for-powercenter/h2l/1475-performance-tuning-and-sizing-guidelines-for-powerexchange-.html"
+  ]
+ },
+ {
+  "path": "data-integration/powerexchange-cdc-publisher.html",
+  "tier": 1,
+  "title": "PowerExchange CDC Publisher | 1.3.1",
+  "version_page": "/data-integration/powerexchange-cdc-publisher/1-3-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/powerexchange-cdc-publisher/1-3-1/en/PowerExchangeCDCPublisher_1.3.1_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/powerexchange-cdc-publisher/h2l/1518-tuning-powerexchange-cdc-publisher-to-improve-performance.html"
+  ]
+ },
+ {
+  "path": "data-integration/powerexchange-for-cdc-and-mainframe.html",
+  "tier": 1,
+  "title": "PowerExchange for CDC and Mainframe | 10.5.11",
+  "version_page": "/data-integration/powerexchange-for-cdc-and-mainframe/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/powerexchange-for-cdc-and-mainframe/10-5-11/en/PowerExchangeforCDCandMainframe_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0124-creating-an-odbc-data-source-to-run-a--db2-for-z-os-stored-.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0178-defining-table-properties-in-a-data-map-to-normalize-an-arr.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0181-using-the-powerexchange-callprog-function-to-call-a-user-ex.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0210-powerexchange-for-db2-for-i5-os-cdc--using-the-delete-journ.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0214-monitoring-ims-synchronous-change-data-capture.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0219-monitoring-ims-log-based-change-data-capture.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0227-importing-a-cobol-or-pl-i-copybook-into-a-powerexchange-dat.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0228-enabling-and-configuring-powerexchange-data-maps-caching.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0243-using-the-dtlrexe-utility-to-run-the-edmluctr-log-print-uti.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0268-overriding-an-ims-database-name-in-a-workflow.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0282-entering-an-adabas-fdt-password-for-capxrt-database-row-tes.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0311-migrating-to-powerexchange-express-cdc-for-oracle.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0313-resuming-powerexchange-oracle-logminer-cdc-after-unexpected.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0321-using-heartbeat-tables-to-determine-the-latency-of-change-d.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0330-importing-powerexchange-nonrelational-data-objects-into-inf.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0380-materializing-a-target-from-an-adabas-unload-file.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0383-moving-db2-for-z-os-bulk-data-with-nonrelational-source-def.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0395-using-powerexchange-odbc-connections-in-a-data-archive-reti.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0490-implementing-data-masking-and-data-subset-with-sequential-o.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0528-using-powerexchange-to-validate-and-extract-data-in-flat-fi.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0611-handling-inflight-uows-found-at-log-based-eccr-shutdown-on-.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0625-implementing-powerexchange-express-cdc-for-oracle-in-a-non-.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0688-powerexchange-ims-data-map-creation.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0698-implementing-event-tables-to-control-extraction-processing-.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0726-creating-a-powerexchange-capture-registration-and-extractio.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0919-powerexchange-code-page-processing.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/0966-handling-errors-that-occur-when-writing-data-to-remote-powe.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/1157-implementing-tls-security-in-a-powerexchange-network.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/1279-scripting-pwxcmd-commands-for-the-powerexchange-logger.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/1290-powerexchange-cdc--changing-sources-or-targets-for-extracti.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/1473-configuring-a-db2-for-z-os-resource-in-metadata-manager.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/handling-inflight-uows-found-at-log-based-eccr-shutdown-on-z-os/handling-inflight-uows-found-at-log-based-eccr-shutdown-on-zos.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/importing-a-cobol-or-pl-i-copybook-into-a-powerexchange-data-map/abstract.html",
+   "/data-integration/powerexchange-for-cdc-and-mainframe/h2l/installing-powerexchange-on-z-os/abstract.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/cloud-data-integration-for-powercenter.html",
+  "tier": 1,
+  "title": "Cloud Data Integration for PowerCenter | Current Version",
+  "version_page": "/integration-cloud/cloud-data-integration-for-powercenter/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/cloud-data-integration-for-powercenter/current-version/en/CloudDataIntegrationforPowerCenter_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/integration-cloud/cloud-data-integration-for-powercenter/h2l/1786-split-an-informatica-domain-before-you-migrate-to-cloud-dat.html",
+   "/integration-cloud/cloud-data-integration-for-powercenter/h2l/1839-release-readiness.html",
+   "/integration-cloud/cloud-data-integration-for-powercenter/h2l/1841-updating-an-obsolete-domain-in-cloud-data-integration-for-p.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/data-ingestion-and-replication.html",
+  "tier": 1,
+  "title": "Data Ingestion and Replication | Current Version",
+  "version_page": "/integration-cloud/data-ingestion-and-replication/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/cloud-mass-ingestion/current-version/en/DataIngestionandReplication_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/integration-cloud/data-ingestion-and-replication/h2l/1328-streaming-ingestion-quick-start.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1408-performance-tuning-and-best-practices-for-file-ingestion-an.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1452-Mass_Ingestion_Databases_QuickStart_R34.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1539-implementing-oracle-to-snowflake-synchronization-using-clou.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1642-implementing-salesforce-to-snowflake-synchronization-using-.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1710-ingesting-sql-server-data-and-cdc-changes-into-amazon-redsh.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1711-ingesting-db2-for-z-os-change-data-into-snowflake-with-clou.html",
+   "/integration-cloud/data-ingestion-and-replication/h2l/1743-ingesting-db2-for-i-change-data-into-snowflake-with-cloud-m.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/data-integration-connector-toolkit.html",
+  "tier": 1,
+  "title": "Data Integration Connector Toolkit | Current Version",
+  "version_page": "/integration-cloud/data-integration-connector-toolkit/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/informatica-connector-toolkit/current-version/en/DataIntegrationConnectorToolkit_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "integration-cloud/data-integration-connectors.html",
+  "tier": 1,
+  "title": "Data Integration Connectors | Current Version",
+  "version_page": "/integration-cloud/data-integration-connectors/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/cloud-data-integration-connectors/current-version/en/DataIntegrationConnectors_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/integration-cloud/data-integration-connectors/h2l/0972-configuring-aws-iam-authentication-for-amazon-redshift-and-.html",
+   "/integration-cloud/data-integration-connectors/h2l/0973-configuring-aws-kms-customer-master-key-to-encrypt-files-in.html",
+   "/integration-cloud/data-integration-connectors/h2l/0998-using-workday-v2-connector-in-a-process-to-get-employee-det.html",
+   "/integration-cloud/data-integration-connectors/h2l/1053-configuring-a-web-services-transformation-in-informatica-cl.html",
+   "/integration-cloud/data-integration-connectors/h2l/1061-informatica-cloud--google-cloud-storage-connector-frequentl.html",
+   "/integration-cloud/data-integration-connectors/h2l/1062-frequently-asked-questions-for-google-bigquery-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1070-configuring-an-odbc-connection-for-google-bigquery.html",
+   "/integration-cloud/data-integration-connectors/h2l/1075-how-to-configure-sap-bapi-connector-as-a-business-service-i.html",
+   "/integration-cloud/data-integration-connectors/h2l/1112-performance-tuning-and-sizing-guidelines-for-amazon-redshif.html",
+   "/integration-cloud/data-integration-connectors/h2l/1116-installing-the-jdbc-and-odbc-drivers-for-mysql-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1140-configuring-azure-active-directory-authentication-for-micro.html",
+   "/integration-cloud/data-integration-connectors/h2l/1141-preparing-to-use-microsoft-sharepoint-online-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1182-how-to-configure-the-sap-secure-network-communication-proto.html",
+   "/integration-cloud/data-integration-connectors/h2l/1199-configuring-iam-authentication-for-amazon-s3-and-amazon-s3-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1207-frequently-asked-questions-for-amazon-s3-v2-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1243-configuring-ssl-for-mysql-connector-in-cloud-data-integrati.html",
+   "/integration-cloud/data-integration-connectors/h2l/1251-configuring-the-simba-mongodb-jdbc-driver-options-for-mongo.html",
+   "/integration-cloud/data-integration-connectors/h2l/1271-reading-a-json-file-using-an-amazon-s3-v2-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1273-performance-tuning-and-best-practices-for-snowflake-data-cl.html",
+   "/integration-cloud/data-integration-connectors/h2l/1278-performance-tuning-guidelines-for-sap-table-reader-connecto.html",
+   "/integration-cloud/data-integration-connectors/h2l/1285-performance-tuning-and-sizing-guidelines-for-microsoft-azur.html",
+   "/integration-cloud/data-integration-connectors/h2l/1293-amazon-redshift-connector-best-practices.html",
+   "/integration-cloud/data-integration-connectors/h2l/1320-converting-relational-input-into-hierarchical-output-using-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1321-converting-hierarchical-input-to-relational-output-using-mi.html",
+   "/integration-cloud/data-integration-connectors/h2l/1322-converting-hierarchical-input-to-flat-output-using-microsof.html",
+   "/integration-cloud/data-integration-connectors/h2l/1339-performance-tuning-guidelines-for-full-pushdown-optimizatio.html",
+   "/integration-cloud/data-integration-connectors/h2l/1342-configuring-the-oracle-advanced-security-options-in-an-orac.html",
+   "/integration-cloud/data-integration-connectors/h2l/1343-connecting-to-mongodb-atlas-database-from-cloud-data-integr.html",
+   "/integration-cloud/data-integration-connectors/h2l/1357-prerequisites-to-create-a-microsoft-azure-data-lake-storage.html",
+   "/integration-cloud/data-integration-connectors/h2l/1387-performance-tuning-guidelines-for-microsoft-azure-data-lake.html",
+   "/integration-cloud/data-integration-connectors/h2l/1401-performance-tuning-guidelines-for-servicenow-connector-in-i.html",
+   "/integration-cloud/data-integration-connectors/h2l/1424-performance-tuning-guidelines-for-mongodb-connector-in-info.html",
+   "/integration-cloud/data-integration-connectors/h2l/1426-configure-single-sign-on-to-amazon-s3-in-informatica-cloud-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti.html",
+   "/integration-cloud/data-integration-connectors/h2l/1430-frequently-asked-questions-for-cloud-data-integration-kafka.html",
+   "/integration-cloud/data-integration-connectors/h2l/1431-performance-tuning-guidelines-for-databricks-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1474-using-an-assume-role-for-amazon-s3-resources-in-informatica.html",
+   "/integration-cloud/data-integration-connectors/h2l/1529-implementing-the-upsert-operation-using-amazon-redshift-v2-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1543-connecting-to-oracle-database-cloud-service-from-cloud-data.html",
+   "/integration-cloud/data-integration-connectors/h2l/1544-converting-relational-input-into-hierarchical-output-using-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1553-configuring-informatica-encryption-for-elastic-mappings-in-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1553-configuring-informatica-encryption-for-mappings-in-advanced.html",
+   "/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v.html",
+   "/integration-cloud/data-integration-connectors/h2l/1603-prerequisites-to-create-a-microsoft-azure-synapse-sql-conne.html",
+   "/integration-cloud/data-integration-connectors/h2l/1604-configuring-azure-virtual-network-for-microsoft-azure-synap.html",
+   "/integration-cloud/data-integration-connectors/h2l/1606-converting-relational-input-into-hierarchical-output-using-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1609-configuring-a-secure-connection-to-the-sap-hana-server-from.html",
+   "/integration-cloud/data-integration-connectors/h2l/1627-performance-tuning-guidelines-for-pushdown-optimization-usi.html",
+   "/integration-cloud/data-integration-connectors/h2l/1628-connecting-to-an-azure-storage-account-using-an-azure-priva.html",
+   "/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1670-writing-to-and-reading-from-aws-lake-formation-using-amazon.html",
+   "/integration-cloud/data-integration-connectors/h2l/1678-configure-vpc-peering-between-the-amazon-redshift-cluster-a.html",
+   "/integration-cloud/data-integration-connectors/h2l/1679-prerequisites-to-create-a-microsoft-azure-blob-storage-v3-c.html",
+   "/integration-cloud/data-integration-connectors/h2l/1681-using-amazon-redshift-serverless-with-cloud-data-integratio.html",
+   "/integration-cloud/data-integration-connectors/h2l/1682-performance-tuning-guidelines-for-pushdown-optimization-usi.html",
+   "/integration-cloud/data-integration-connectors/h2l/1688-connecting-to-microsoft-azure-synapse-sql-using-an-azure-pr.html",
+   "/integration-cloud/data-integration-connectors/h2l/1692-configuring-pushdown-optimization-for-snowflake-using-the-o.html",
+   "/integration-cloud/data-integration-connectors/h2l/1693-configuring-private-communication-with-amazon-redshift-usin.html",
+   "/integration-cloud/data-integration-connectors/h2l/1694-configuring-private-communication-with-amazon-s3-using-the-.html",
+   "/integration-cloud/data-integration-connectors/h2l/1705-how-to-consume-odp-enabled-odata-service-using-odata-connec.html",
+   "/integration-cloud/data-integration-connectors/h2l/1725-writing-data-to-snowflake-external-tables.html",
+   "/integration-cloud/data-integration-connectors/h2l/1726-configuring-pushdown-optimization-for-amazon-redshift-using.html",
+   "/integration-cloud/data-integration-connectors/h2l/1730-configuring-pushdown-optimization-for-microsoft-azure-synap.html",
+   "/integration-cloud/data-integration-connectors/h2l/1744-configuring-okta-for-snowflake-data-cloud-connector-to-acce.html",
+   "/integration-cloud/data-integration-connectors/h2l/1763-configuring-assumerole-authentication-for-amazon-redshift-v.html",
+   "/integration-cloud/data-integration-connectors/h2l/1771-performance-tuning-guidelines-for-microsoft-azure-cosmos-db.html",
+   "/integration-cloud/data-integration-connectors/h2l/1774-prerequisites-to-create-a-microsoft-fabric-onelake-connecti.html",
+   "/integration-cloud/data-integration-connectors/h2l/1775-prerequisites-to-connect-to-a-serverless-sql-pool.html",
+   "/integration-cloud/data-integration-connectors/h2l/1819-prerequisites-to-use-service-principal-authentication.html",
+   "/integration-cloud/data-integration-connectors/h2l/1821-prerequisites-to-configure-cross-account-access-to-amazon-s.html",
+   "/integration-cloud/data-integration-connectors/h2l/1843-preparing-to-use-salesforce-data-cloud-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1849-performance-tuning-and-best-practices-for-google-cloud-stor.html",
+   "/integration-cloud/data-integration-connectors/h2l/1858-customer-purchase-insights-with-open-table-connector.html",
+   "/integration-cloud/data-integration-connectors/h2l/1859-measuring-sales-effectiveness-with-amazon-sagemaker-lakehou.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/data-integration-free-and-paygo.html",
+  "tier": 1,
+  "title": "Data Integration-Free and PayGo | Current Version",
+  "version_page": "/integration-cloud/data-integration-free-and-paygo/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/data-integration-free-and-paygo/current-version/en/DataIntegration-Free&PayGo_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/integration-cloud/data-integration-free-and-paygo/h2l/1835-configure-informatica-cloud-data-integration-free-through-d.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/data-integration.html",
+  "tier": 1,
+  "title": "Data Integration | Current Version",
+  "version_page": "/integration-cloud/data-integration/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/cloud-data-integration/current-version/en/DataIntegration_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/integration-cloud/data-integration/h2l/1148-secure-agent-machine-requirements-for-masking-tasks-on-info.html",
+   "/integration-cloud/data-integration/h2l/1423-informatica-intelligent-cloud-services-for-snowflake-accele.html",
+   "/integration-cloud/data-integration/h2l/1438-proxy-server-configuration-for-the-secure-agent.html",
+   "/integration-cloud/data-integration/h2l/1439-data-integration-elastic-quick-reference.html",
+   "/integration-cloud/data-integration/h2l/1450-single-asset-check-in-and-check-out-in-a-source-controlled-.html",
+   "/integration-cloud/data-integration/h2l/1451-delete-versus-unlink-in-a-source-controlled-organization.html",
+   "/integration-cloud/data-integration/h2l/1515-secure-agent-best-practices-and-tuning-guidelines.html",
+   "/integration-cloud/data-integration/h2l/1519-roll-back-source-controlled-assets-to-previous-versions.html",
+   "/integration-cloud/data-integration/h2l/1683-how-to-configure-a-parameter-set-in-a-taskflow.html",
+   "/integration-cloud/data-integration/h2l/1712-migrating-a-connector-from-previous-versions-using-the-data.html",
+   "/integration-cloud/data-integration/h2l/1762-how-to-create-profiles-to-run-aws-commands-using-taskflow-c.html",
+   "/integration-cloud/data-integration/h2l/1787-informatica-intelligent-cloud-services-accelerator-for-data.html",
+   "/integration-cloud/data-integration/h2l/1856-data-vault-mapping-task-template-configuration-tutorial.html",
+   "/integration-cloud/data-integration/h2l/_1309-IntegrationAtScaleQuickStart-H2L.html",
+   "/integration-cloud/data-integration/h2l/_1671_CDI_Quick_Start.html"
+  ]
+ },
+ {
+  "path": "integration-cloud/data-loader.html",
+  "tier": 1,
+  "title": "Data Loader | Current Version",
+  "version_page": "/integration-cloud/data-loader/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/data-loader/current-version/en/DataLoader_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "integration-cloud/data-validation.html",
+  "tier": 1,
+  "title": "Data Validation | Current Version",
+  "version_page": "/integration-cloud/data-validation/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/data-validation/current-version/en/DataValidation_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "integration-cloud/infaconnect.html",
+  "tier": 1,
+  "title": "INFAConnect | Current Version",
+  "version_page": "/integration-cloud/infaconnect/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/infaconnect/current-version/en/INFAConnect_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "integration-cloud/infacore.html",
+  "tier": 1,
+  "title": "INFACore | Current Version",
+  "version_page": "/integration-cloud/infacore/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/integration-cloud/infacore/current-version/en/INFACore_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ipaas/api-center.html",
+  "tier": 1,
+  "title": "API Center | Current Version",
+  "version_page": "/ipaas/api-center/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/cloud-api-center/current-version/en/APICenter_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ipaas/application-integration.html",
+  "tier": 1,
+  "title": "Application Integration | Current Version",
+  "version_page": "/ipaas/application-integration/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/cloud-application-integration/current-version/en/ApplicationIntegration_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/ipaas/application-integration/h2l/1564-how-to-configure-the-sap-secure-network-communication-proto.html",
+   "/ipaas/application-integration/h2l/1707-an-approach-to-software-development-lifecycle-operations-fo.html",
+   "/ipaas/application-integration/h2l/1732-how-to-configure-an-external-postgresql-database-with-the-p.html",
+   "/ipaas/application-integration/h2l/1761-how-to-configure-an-aws-hosted-postgresql-database-with-the.html",
+   "/ipaas/application-integration/h2l/1781-how-to-configure-an-azure-hosted-postgresql-database-with-t.html",
+   "/ipaas/application-integration/h2l/1820-how-to-configure-an-aurora-hosted-postgresql-database-with-.html",
+   "/ipaas/application-integration/h2l/1829-automate-informatica-processing-unit-monitoring-and-alertin.html",
+   "/ipaas/application-integration/h2l/1832-how-to-configure-assume-roles-for-amazon-resources.html",
+   "/ipaas/application-integration/h2l/1852-expose-an-application-integration-process-as-an-mcp-server.html",
+   "/ipaas/application-integration/h2l/1860-generate-a-genai-application-for-vehicle-insurance-claim-pr.html"
+  ]
+ },
+ {
+  "path": "ipaas/b2b-gateway.html",
+  "tier": 1,
+  "title": "B2B Gateway | Current Version",
+  "version_page": "/ipaas/b2b-gateway/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/cloud-b2b-gateway/current-version/en/B2BGateway_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/ipaas/b2b-gateway/h2l/1371-cloud-b2b-gateway-quick-start.html"
+  ]
+ },
+ {
+  "path": "ipaas/b2b-partners-portal.html",
+  "tier": 1,
+  "title": "B2B Partners Portal | Current Version",
+  "version_page": "/ipaas/b2b-partners-portal/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/cloud-b2b-partners-portal/current-version/en/B2BPartnersPortal_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ipaas/human-tasks.html",
+  "tier": 1,
+  "title": "Human Tasks | Current Version",
+  "version_page": "/ipaas/human-tasks/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/human-tasks/current-version/en/HumanTasks_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ipaas/integration-hub.html",
+  "tier": 1,
+  "title": "Integration Hub | Current Version",
+  "version_page": "/ipaas/integration-hub/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/cloud-integration-hub/current-version/en/IntegrationHub_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ipaas/recipes.html",
+  "tier": 1,
+  "title": "Recipes | Current Version",
+  "version_page": "/ipaas/recipes/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ipaas/recipes/current-version/en/Recipes_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "release-information/release-notes-for-idmc.html",
+  "tier": 1,
+  "title": "Preface",
+  "version_page": "/release-information/release-notes-for-idmc/current-version/release-notes/preface.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "release-information/what-s-new-in-idmc.html",
+  "tier": 1,
+  "title": "What&#39;s New in IDMC | Current Version",
+  "version_page": "/release-information/what-s-new-in-idmc/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/release-information/what-s-new-in-idmc/current-version/en/What%27sNewinIDMC_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "release-information/what-s-new-in-informatica-headless.html",
+  "tier": 1,
+  "title": "Preface",
+  "version_page": "/release-information/what-s-new-in-informatica-headless/current-version/what-s-new/preface.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "claire/claire-copilot.html",
+  "tier": 2,
+  "title": "CLAIRE Copilot | Current Version",
+  "version_page": "/claire/claire-copilot/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/claire/copilot/current-version/en/CLAIRECopilot_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "claire/claire-gpt.html",
+  "tier": 2,
+  "title": "CLAIRE GPT | Current Version",
+  "version_page": "/claire/claire-gpt/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/claire/claire-gpt/current-version/en/CLAIREGPT_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/claire/claire-gpt/h2l/1833-administer-claire-gpt.html",
+   "/claire/claire-gpt/h2l/1834-informatica-intelligent-data-management-cloud-claire-securi.html",
+   "/claire/claire-gpt/h2l/1834-informatica-intelligent-data-management-cloud-claire-securi/landing-page.html",
+   "/claire/claire-gpt/h2l/1838-start-your-generative-ai-journey-for-data-management-with-c.html",
+   "/claire/claire-gpt/h2l/1838-start-your-generative-ai-journey-for-data-management-with-c/landing-page.html"
+  ]
+ },
+ {
+  "path": "claire/data-management-agents.html",
+  "tier": 2,
+  "title": "Data Management Agents | Current Version",
+  "version_page": "/claire/data-management-agents/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/claire/data-management-agents/current-version/en/DataManagementAgents_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-catalog/common-content-for-data-catalog.html",
+  "tier": 2,
+  "title": "Common Content for Data Catalog | 10.5.11",
+  "version_page": "/data-catalog/common-content-for-data-catalog/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/catalog/shared-content-for-data-catalog/10-5-11/en/CommonContentforDataCatalog_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-catalog/enterprise-data-catalog.html",
+  "tier": 2,
+  "title": "Enterprise Data Catalog | 10.5.11",
+  "version_page": "/data-catalog/enterprise-data-catalog/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/catalog/enterprise-data-catalog/10-5-11/en/EnterpriseDataCatalog_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-catalog/enterprise-data-catalog/h2l/0636-replicating-a-glossary-in-a-domain.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0704-bulk-edit-published-or-rejected-business-terms.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0769-business-glossary-documentation-quick-reference.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0824-business-glossary-export-file-description.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0826-creating-glossary-content-using-microsoft-excel.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0827-business-glossary-best-practices.html",
+   "/data-catalog/enterprise-data-catalog/h2l/0984-configuring-enterprise-information-catalog-on-amazon-web-se.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1071-configuring-ports-for-enterprise-information-catalog.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1122-importing-connections-from-metadata-manager-to-enterprise-i.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1230-using-data-domains-in-enterprise-data-catalog.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1363-enterprise-data-catalog-disaster-recovery-reference.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1367-enabling-saml-authentication-with-active-directory-federati.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1370-enabling-saml-authentication-with-pingfederate-in-informati.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1392-tuning-enterprise-data-catalog-performance-in-10-4-0.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1393-deploying-the-informatica-enterprise-data-catalog-10-4-0-aw.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1405-deploying-the-informatica--enterprise-data-catalog--10-4-0-.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1428-enabling-360-degree-view-of-data-using-sap-bw-scanner.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1432-how-to-find-critical-assets-using-custom-attributes-in-ente.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1433-ingest-metadata-from-custom-resources.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1434-how-to-configure-business-term-association-in-enterprise-da.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1435-getting-started-with-data-domains.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1440-high-priority-scans-in-enterprise-data-catalog.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1467-discover-metadata-using-enterprise-data-catalog-tableau-ext.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1484-deploy-the-informatica--enterprise-data-catalog-solution-on.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1485-deploy-the-informatica--enterprise-data-catalog--10-4-1-sol.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1487-authorizing-users-in-enterprise-data-catalog.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1492-profiling-configuration-recommendations-in-enterprise-data-.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1495-deploy-the--informatica--enterprise-data-catalog-solution-o.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1502-install-enterprise-data-catalog-on-docker-with-the-containe.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1503-how-to-use-the-custom-metadata-validation-utility-with-ente.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1505-tuning-enterprise-data-catalog-performance-in-10-4-1.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1514-configuring-kerberos-and-ssl-for-enterprise-data-catalog.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1542-enterprise-data-catalog-types-of-metadata.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1565-tuning-enterprise-data-catalog-performance-in-10-5.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1569-implement-disaster-recovery-and-high-availability-for-enter.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1571-deploy--enterprise-data-catalog-on-the-aws-cloud-marketplac.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1585-deploy-the-informatica--enterprise-data-catalog-solution-on.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1589-informatica-enterprise-data-catalog-10-5-security-guide.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1593-deploy-the-informatica--enterprise-data-catalog--10-5-0-sol.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1593-deploy-the-informatica--enterprise-data-catalog--10-5-1-1-s.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1607-install-enterprise-data-catalog-on-docker-with-informatica-.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1623-follow-assets-with-an-associated-data-domain.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1624-fetch-profiling-statistics-of-tables-in-a-resource.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1636-deploy--enterprise-data-catalog-on-the-aws-cloud-marketplac.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1636-deploy--enterprise-data-catalog-on-the-aws-u-s--intelligenc.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1636-deploy-the-informatica--10-5-1-1--enterprise-data-catalog-o.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1649-deploy-the-informatica--10-5-1-1--enterprise-data-catalog-s.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1649-deploy-the-informatica--enterprise-data-catalog-solution-on.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1656-getting-started-with-data-profiling-in-enterprise-data-cata.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1658-choose-between-available-scanners-and-open-connectivity-sta.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1701-deploy-the-informatica---enterprise-data-catalog-solution-o.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1714-replacing-complex-patterns-in-source-code-for-metadex-scann.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1724-install-enterprise-data-catalog-on-docker-with-informatica-.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1727-configure-etl-scanners-to-use-information-about-files-that-.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1737-deploy-the-informatica---enterprise-data-catalog-solution-o.html",
+   "/data-catalog/enterprise-data-catalog/h2l/1751-deploy-the-informatica--10-5-3--enterprise-data-catalog-sol.html",
+   "/data-catalog/enterprise-data-catalog/h2l/_1579_10-5-UpgradePaths_H2L.html",
+   "/data-catalog/enterprise-data-catalog/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-catalog/enterprise-data-catalog/h2l/informatica-enterprise-data-catalog-on-the-aws-cloud-marketplace.html"
+  ]
+ },
+ {
+  "path": "data-catalog/enterprise-data-preparation.html",
+  "tier": 2,
+  "title": "Enterprise Data Preparation | 10.5.11",
+  "version_page": "/data-catalog/enterprise-data-preparation/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/catalog/enterprise-data-preparation/10-5-11/en/EnterpriseDataPreparation_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-catalog/enterprise-data-preparation/h2l/1181-creating-a-dashboard-for-monitoring-enterprise-data-prepara.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1183-sizing-and-tuning-guidelines-for-enterprise-data-lake-10-2-.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1190-importing-and-exporting-data-assets-between-microsoft-azure.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1194-importing-and-exporting-assets-between-amazon-redshift-and-.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1197-importing-and-exporting-data-assets-between-oracle-and-ente.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1198-importing-and-exporting-assets-between-teradata-and-enterpr.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1209-importing-and-exporting-data-assets-between-microsoft-sql-s.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1257-informatica-10-2-1-big-data-primer.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1266-configuring-enterprise-data-preparation-10-2-2-and-10-4-0-o.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1276-sizing-and-tuning-guidelines-for-enterprise-data-preparatio.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1288-supported-upgrade-paths-to-big-data-10-2-1-service-pack-1.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1291-informatica-10-2-2-big-data-primer.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1299-configuring-enterprise-data-preparation-10-2-2-on-microsoft.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1366-configuring-enterprise-data-preparation-10-4-0-on-microsoft.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1367-enabling-saml-authentication-with-active-directory-federati.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1370-enabling-saml-authentication-with-pingfederate-in-informati.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1378-deploying-the-informatica--enterprise-data-preparation-10-4.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1379-deploying-the-informatica--enterprise-data-preparation-10-4.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1390-sizing-and-tuning-guidelines-for-enterprise-data-preparatio.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1480-deploy-the-informatica--enterprise-data-preparation-solutio.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1494-deploy-the--informatica--enterprise-data-preparation-soluti.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1504-install-enterprise-data-preparation-on-docker-with-the-cont.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1578-deploy--enterprise-data-preparation-on-the-aws-cloud-market.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1586-deploy-the-informatica--enterprise-data-preparation-solutio.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1635-deploy--enterprise-data-preparation-on-the-aws-cloud-market.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1635-deploy-the-informatica--10-5-1-1--enterprise-data-preparati.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1648-deploy-the-informatica--enterprise-data-preparation-solutio.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1698-deploy-the-informatica---enterprise-data-preparation-soluti.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1736-deploy-the-informatica---enterprise-data-preparation-soluti.html",
+   "/data-catalog/enterprise-data-preparation/h2l/1750-deploy-the-informatica--10-5-3--enterprise-data-preparation.html",
+   "/data-catalog/enterprise-data-preparation/h2l/_1579_10-5-UpgradePaths_H2L.html",
+   "/data-catalog/enterprise-data-preparation/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-catalog/enterprise-data-preparation/h2l/deploy-the-informatica--enterprise-data-preparation-solution-on-.html"
+  ]
+ },
+ {
+  "path": "data-engineering/common-content-for-data-engineering.html",
+  "tier": 2,
+  "title": "Common Content for Data Engineering | 10.5.11",
+  "version_page": "/data-engineering/common-content-for-data-engineering/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/big-data-management/shared-content-for-big-data/10-5-11/en/CommonContentforDataEngineering_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-engineering/common-content-for-data-engineering/h2l/0234-using-the-sql-transformation-in-an-informatica-developer-ma.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/0558-informatica-architecture--nodes-and-domains.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/0820-improving-the-performance-of-the-model-repository.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/0924-creating-a-rest-web-service-in-the-informatica-developer-to.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/0939-how-to-migrate-microsoft-sql-server-connections-from-the-ol.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/0960-informatica-developer-tool-naming-conventions.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1085-implementing-big-data-management-10-2-with-ephemeral-cluste.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1090-enabling-saml-authentication-in-an-informatica-10-2-x-domai.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1101-tuning-the-hardware-and-hadoop-cluster-for-informatica-big-.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1159-creating-a-parameter-file-for-informatica-developer.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1214-configuring-git-version-control-for-model-repository-servic.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1326-optimizing-the-data-integration-service-to-process-concurre.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1329-how-to-migrate-mappings-from-the-hive-engine.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1459-enabling-saml-authentication-with-netscaler-for-web-applica.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1526-high-availability-and-disaster-recovery-in-a-data-engineeri.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1534-how-to-create-ephemeral-clusters-with-data-engineering-10-4.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1568-using-operating-system-profiles-in-a-hadoop-environment.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1579_105-UpgradePaths.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/1594-install-python-for-the-python-transformation-on-hadoop.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/configuring-saml-based-single-sign-on-for-informatica-10-1-1-web.html",
+   "/data-engineering/common-content-for-data-engineering/h2l/tuning-the-performance-of-the-monitoring-model-repository.html"
+  ]
+ },
+ {
+  "path": "data-engineering/data-engineering-integration.html",
+  "tier": 2,
+  "title": "Data Engineering Integration | 10.5.11",
+  "version_page": "/data-engineering/data-engineering-integration/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/big-data-management/big-data-management/10-5-11/en/DataEngineeringIntegration_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-engineering/data-engineering-integration/h2l/0859-developing-a-dynamic-mapping-to-manage-metadata-changes-in-.html",
+   "/data-engineering/data-engineering-integration/h2l/0861-developing-a-dynamic-mapping-to-run-against-different-sourc.html",
+   "/data-engineering/data-engineering-integration/h2l/0867-informatica-port-administration.html",
+   "/data-engineering/data-engineering-integration/h2l/0913-relational-pushdown-optimization-best-practices-for-develop.html",
+   "/data-engineering/data-engineering-integration/h2l/0929-migrating-objects-from-a-model-repository-to-a-powercenter-.html",
+   "/data-engineering/data-engineering-integration/h2l/0934-migrating-mappings-and-mapplets-from-a-powercenter-reposito.html",
+   "/data-engineering/data-engineering-integration/h2l/0948-using-two-factor-authentication-to-connect-to-a-kerberos-en.html",
+   "/data-engineering/data-engineering-integration/h2l/0952-deploying-big-data-management--enterprise-data-catalog-and-.html",
+   "/data-engineering/data-engineering-integration/h2l/0959-configuring-ports-for-big-data-management--data-integration.html",
+   "/data-engineering/data-engineering-integration/h2l/0962-how-to-configure-oracle-single-client-access-name--scan--in.html",
+   "/data-engineering/data-engineering-integration/h2l/0977-using-ldap-authentication-in-an-informatica-domain.html",
+   "/data-engineering/data-engineering-integration/h2l/1006-big-data-management-10-1-1-performance-tuning-for-the-spark.html",
+   "/data-engineering/data-engineering-integration/h2l/1016-creating-multiple-grid-managers-on-a-hadoop-cluster-for-inf.html",
+   "/data-engineering/data-engineering-integration/h2l/1023-best-practices-for-the-blaze-engine.html",
+   "/data-engineering/data-engineering-integration/h2l/1038-implementing-informatica--big-data-management-in-a-microsof.html",
+   "/data-engineering/data-engineering-integration/h2l/1079-creating-column-profiles-on-avro-and-parquet-data-sources-i.html",
+   "/data-engineering/data-engineering-integration/h2l/1084-implementing-informatica--big-data-management-10-2-in-an-am.html",
+   "/data-engineering/data-engineering-integration/h2l/1088-configuring-big-data-management--to-access-an-ssl-enabled-h.html",
+   "/data-engineering/data-engineering-integration/h2l/1089-configuring-kerberos-authentication-in-an-informatica-domai.html",
+   "/data-engineering/data-engineering-integration/h2l/1094-configuring-ports-for-big-data-products-10-2.html",
+   "/data-engineering/data-engineering-integration/h2l/1097-strategies-for-incremental-updates-on-hive-in-big-data-mana.html",
+   "/data-engineering/data-engineering-integration/h2l/1098-performance-tuning-and-sizing-guidelines-for-informatica-bi.html",
+   "/data-engineering/data-engineering-integration/h2l/1101-tuning-the-hardware-and-hadoop-cluster-for-informatica-big-.html",
+   "/data-engineering/data-engineering-integration/h2l/1102-tuning-the-hive-engine-for-big-data-management-.html",
+   "/data-engineering/data-engineering-integration/h2l/1105-implementing-informatica-big-data-management-on-oracle-big-.html",
+   "/data-engineering/data-engineering-integration/h2l/1106-hadoop-integration-task-flow-diagrams-for-big-data-manageme.html",
+   "/data-engineering/data-engineering-integration/h2l/1109-stateful-computing-on-the-spark-engine-for-big-data-managem.html",
+   "/data-engineering/data-engineering-integration/h2l/1124-ldap-authentication-for-hive-in-big-data-management-.html",
+   "/data-engineering/data-engineering-integration/h2l/1151-implementing-a-disaster-recovery-strategy-for-informatica--.html",
+   "/data-engineering/data-engineering-integration/h2l/1152-how-to-create-cloudera-altus-clusters-with-a-cluster-workfl.html",
+   "/data-engineering/data-engineering-integration/h2l/1167-how-to-create-cloud-platform-clusters-using-a-workflow-in-b.html",
+   "/data-engineering/data-engineering-integration/h2l/1179-configuring-cloudera-connector-powered-by-teradata-for-sqoo.html",
+   "/data-engineering/data-engineering-integration/h2l/1185-metadata-access-service-quick-reference.html",
+   "/data-engineering/data-engineering-integration/h2l/1189-big-data-management-10-2-1-performance-tuning-and-sizing-gu.html",
+   "/data-engineering/data-engineering-integration/h2l/1192-informatica--big-data-management-10-2-1-on-microsoft-azure-.html",
+   "/data-engineering/data-engineering-integration/h2l/1195-new-features-and-enhancements-in-big-data-management--10-2-.html",
+   "/data-engineering/data-engineering-integration/h2l/1200-big-data-management--10-2-1-hadoop-integration-and-upgrade-.html",
+   "/data-engineering/data-engineering-integration/h2l/1202-big-data-management-10-2-1-strategies-for-incremental-updat.html",
+   "/data-engineering/data-engineering-integration/h2l/1217-deploying-big-data-management-10-2-1-on-the-aws-cloud-platf.html",
+   "/data-engineering/data-engineering-integration/h2l/1218-deploying-big-data-management-10-2-1-on-the-microsoft-azure.html",
+   "/data-engineering/data-engineering-integration/h2l/1222-implementing-informatica--big-data-management-10-2-1-with-q.html",
+   "/data-engineering/data-engineering-integration/h2l/1231-configuring-yarn-in-informatica-big-data-management-.html",
+   "/data-engineering/data-engineering-integration/h2l/1235-configuring-hortonworks-connector-for-teradata-for-sqoop-ma.html",
+   "/data-engineering/data-engineering-integration/h2l/1236-configuring-mapr-connector-for-teradata-for-sqoop-mappings.html",
+   "/data-engineering/data-engineering-integration/h2l/1257-informatica-10-2-1-big-data-primer.html",
+   "/data-engineering/data-engineering-integration/h2l/1268-how-to-configure-big-data-management-on-kubernetes.html",
+   "/data-engineering/data-engineering-integration/h2l/1274-identifying-indirect-and-remote-dependencies-for-an-applica.html",
+   "/data-engineering/data-engineering-integration/h2l/1275-creating--deploying--and-updating-an-application-in-the-dev.html",
+   "/data-engineering/data-engineering-integration/h2l/1286-supported-upgrade-paths-to-big-data-10-2-2.html",
+   "/data-engineering/data-engineering-integration/h2l/1287-supported-upgrade-paths-to-informatica-10-2-1.html",
+   "/data-engineering/data-engineering-integration/h2l/1288-supported-upgrade-paths-to-big-data-10-2-1-service-pack-1.html",
+   "/data-engineering/data-engineering-integration/h2l/1291-informatica-10-2-2-big-data-primer.html",
+   "/data-engineering/data-engineering-integration/h2l/1294-informatica--big-data-management-10-2-2-on-microsoft-azure-.html",
+   "/data-engineering/data-engineering-integration/h2l/1295-deploying-big-data-management-10-2-2-on-the-microsoft-azure.html",
+   "/data-engineering/data-engineering-integration/h2l/1296-deploying-big-data-management-10-2-2-on-the-aws-cloud-platf.html",
+   "/data-engineering/data-engineering-integration/h2l/1302-performance-tuning-and-sizing-guidelines-for-informatica--b.html",
+   "/data-engineering/data-engineering-integration/h2l/1310-supported-upgrade-paths-to-informatica-10-2-hotfix-2.html",
+   "/data-engineering/data-engineering-integration/h2l/1314-integrating-big-data-management-10-2-1-with-wandisco-fusion.html",
+   "/data-engineering/data-engineering-integration/h2l/1329-how-to-migrate-mappings-from-the-hive-engine.html",
+   "/data-engineering/data-engineering-integration/h2l/1341-implementing-data-engineering-integration-with-google-datap.html",
+   "/data-engineering/data-engineering-integration/h2l/1345-big-data-management--10-2-2-integration-and-upgrade-task-fl.html",
+   "/data-engineering/data-engineering-integration/h2l/1352-security-quick-reference-for-azure-hdinsight-with-bdm-10-2-.html",
+   "/data-engineering/data-engineering-integration/h2l/1353-disaster-recovery-for-data-engineering-integration-10-4-on-.html",
+   "/data-engineering/data-engineering-integration/h2l/1354-security-quick-reference-for-amazon-emr-with-bdm-10-2-2.html",
+   "/data-engineering/data-engineering-integration/h2l/1356-implementing-big-data-management-10-2-2-hotfix-1-service-pa.html",
+   "/data-engineering/data-engineering-integration/h2l/1367-enabling-saml-authentication-with-active-directory-federati.html",
+   "/data-engineering/data-engineering-integration/h2l/1368-integrating-big-data-management-10-2-2-with-a-wandisco-enab.html",
+   "/data-engineering/data-engineering-integration/h2l/1370-enabling-saml-authentication-with-pingfederate-in-informati.html",
+   "/data-engineering/data-engineering-integration/h2l/1376-deploying-the-informatica--data-engineering-integration--10.html",
+   "/data-engineering/data-engineering-integration/h2l/1377-deploying-the-informatica--data-engineering-integration-10-.html",
+   "/data-engineering/data-engineering-integration/h2l/1409-integrating-data-engineering-integration-on-the-azure-platf.html",
+   "/data-engineering/data-engineering-integration/h2l/1410-integrating-data-engineering-integration-on-the-aws-platfor.html",
+   "/data-engineering/data-engineering-integration/h2l/1415-tuning-and-sizing-guidelines-for-data-engineering-integrati.html",
+   "/data-engineering/data-engineering-integration/h2l/1417-security-quick-reference-for-azure-databricks-with-dei-10-4.html",
+   "/data-engineering/data-engineering-integration/h2l/1418-security-quick-reference-for-aws-databricks-with-dei-10-4-0.html",
+   "/data-engineering/data-engineering-integration/h2l/1421-integrating-informatica--big-data-management-10-2-2-hf1-sp1.html",
+   "/data-engineering/data-engineering-integration/h2l/1422-data-engineering-integration-10-4-0-on-aws-databricks--perf.html",
+   "/data-engineering/data-engineering-integration/h2l/1458-faq--authentication-on-hdinsight-with-enterprise-security-p.html",
+   "/data-engineering/data-engineering-integration/h2l/1468-enabling-saml-authentication-with-f5-networks-big-ip-in-inf.html",
+   "/data-engineering/data-engineering-integration/h2l/1470-data-engineering-integration-with-a-wandisco-enabled-cluste.html",
+   "/data-engineering/data-engineering-integration/h2l/1478-deploy-the-informatica--data-engineering-integration-soluti.html",
+   "/data-engineering/data-engineering-integration/h2l/1489-install-data-engineering-integration-on-kubernetes-with-the.html",
+   "/data-engineering/data-engineering-integration/h2l/1491-install-data-engineering-integration-on-docker-with-the-con.html",
+   "/data-engineering/data-engineering-integration/h2l/1496-deploy-the--informatica--data-engineering-integration-solut.html",
+   "/data-engineering/data-engineering-integration/h2l/1506-configuring-properties-for-hive-data-objects-in-a-mapping.html",
+   "/data-engineering/data-engineering-integration/h2l/1523-incremental-update-strategies-for-relational-tables-in-data.html",
+   "/data-engineering/data-engineering-integration/h2l/1530-security-best-practices-for-data-engineering-10-4-on-amazon.html",
+   "/data-engineering/data-engineering-integration/h2l/1549-enabling-saml-authentication-with-oracle-access-manager-for.html",
+   "/data-engineering/data-engineering-integration/h2l/1550-enabling-saml-authentication-with-okta-sso-for-web-applicat.html",
+   "/data-engineering/data-engineering-integration/h2l/1551-enabling-saml-authentication-with-azure-active-directory-fo.html",
+   "/data-engineering/data-engineering-integration/h2l/1556-install-data-engineering-integration--10-4-x---10-5--on-doc.html",
+   "/data-engineering/data-engineering-integration/h2l/1558-install-data-engineering-integration-10-5-on-kubernetes-wit.html",
+   "/data-engineering/data-engineering-integration/h2l/1575-deploy--data-engineering-integration-on-the-aws-cloud-marke.html",
+   "/data-engineering/data-engineering-integration/h2l/1582-deploy-the-informatica--data-engineering-integration-soluti.html",
+   "/data-engineering/data-engineering-integration/h2l/1611-install-data-engineering-integration-on-docker-with-informa.html",
+   "/data-engineering/data-engineering-integration/h2l/1613-install-data-engineering-integration-on-kubernetes-with-inf.html",
+   "/data-engineering/data-engineering-integration/h2l/1640-deploy--data-engineering-integration-on-the-aws-cloud-marke.html",
+   "/data-engineering/data-engineering-integration/h2l/1640-deploy-the-informatica--10-5-1-1--data-engineering-integrat.html",
+   "/data-engineering/data-engineering-integration/h2l/1647-deploy-the-informatica--data-engineering-integration-soluti.html",
+   "/data-engineering/data-engineering-integration/h2l/1676-deploy--data-engineering-integration-on-the-aws-u-s--intell.html",
+   "/data-engineering/data-engineering-integration/h2l/1704-deploy-the-informatica---data-engineering-integration-solut.html",
+   "/data-engineering/data-engineering-integration/h2l/1720-install-data-engineering-integration-on-kubernetes-with-inf.html",
+   "/data-engineering/data-engineering-integration/h2l/1722-install-data-engineering-integration-on-docker-with-informa.html",
+   "/data-engineering/data-engineering-integration/h2l/1733-integrating-data-engineering-integration-on-the-aws-platfor.html",
+   "/data-engineering/data-engineering-integration/h2l/1741-deploy-the-informatica---data-engineering-integration-solut.html",
+   "/data-engineering/data-engineering-integration/h2l/1749-deploy-the-informatica--10-5-3--data-engineering-integratio.html",
+   "/data-engineering/data-engineering-integration/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-engineering/data-engineering-integration/h2l/configuring-saml-based-single-sign-on-for-informatica-10-1-1-web.html",
+   "/data-engineering/data-engineering-integration/h2l/enabling-saml-authentication-in-an-informatica-10-2-x-domain.html",
+   "/data-engineering/data-engineering-integration/h2l/implementing-informatica--big-data-management-10-2-with-ephemera.html"
+  ]
+ },
+ {
+  "path": "data-engineering/data-engineering-quality.html",
+  "tier": 2,
+  "title": "Data Engineering Quality | 10.5.11",
+  "version_page": "/data-engineering/data-engineering-quality/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/big-data-management/big-data-quality/10-5-11/en/DataEngineeringQuality_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-engineering/data-engineering-quality/h2l/1257-informatica-10-2-1-big-data-primer.html",
+   "/data-engineering/data-engineering-quality/h2l/1291-informatica-10-2-2-big-data-primer.html",
+   "/data-engineering/data-engineering-quality/h2l/1329-how-to-migrate-mappings-from-the-hive-engine.html",
+   "/data-engineering/data-engineering-quality/h2l/1391-deploying-the-informatica--data-engineering-quality-10-4-0-.html",
+   "/data-engineering/data-engineering-quality/h2l/1482-deploy-the-informatica--data-engineering-quality-solution-o.html",
+   "/data-engineering/data-engineering-quality/h2l/1499-deploy-the--informatica--data-engineering-quality-solution-.html",
+   "/data-engineering/data-engineering-quality/h2l/1549-enabling-saml-authentication-with-oracle-access-manager-for.html",
+   "/data-engineering/data-engineering-quality/h2l/1550-enabling-saml-authentication-with-okta-sso-for-web-applicat.html",
+   "/data-engineering/data-engineering-quality/h2l/1551-enabling-saml-authentication-with-azure-active-directory-fo.html",
+   "/data-engineering/data-engineering-quality/h2l/1574-deploy--data-engineering-quality-on-the-aws-cloud-marketpla.html",
+   "/data-engineering/data-engineering-quality/h2l/1583-deploy-the-informatica--data-engineering-quality-solution-o.html",
+   "/data-engineering/data-engineering-quality/h2l/1639-deploy--data-engineering-quality-on-the-aws-cloud-marketpla.html",
+   "/data-engineering/data-engineering-quality/h2l/1639-deploy-the-informatica--10-5-1-1--data-engineering-quality-.html",
+   "/data-engineering/data-engineering-quality/h2l/1645-deploy-the-informatica--data-engineering-quality-solution-o.html",
+   "/data-engineering/data-engineering-quality/h2l/1674-deploy--data-engineering-quality-on-the-aws-u-s--intelligen.html",
+   "/data-engineering/data-engineering-quality/h2l/1703-deploy-the-informatica---data-engineering-quality-solution-.html",
+   "/data-engineering/data-engineering-quality/h2l/1740-deploy-the-informatica---data-engineering-quality-solution-.html",
+   "/data-engineering/data-engineering-quality/h2l/1747-deploy-the-informatica--10-5-3--data-engineering-quality-so.html",
+   "/data-engineering/data-engineering-quality/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-engineering/data-engineering-quality/h2l/_deploying-the-informaticadata-engineering-quality-1040-microsoft-azure-marketplace-solution_big-data-quality_h2l_ditamap.html",
+   "/data-engineering/data-engineering-quality/h2l/_supported-upgrade-paths-to-big-data-1021-service-pack-1_big-data-quality_h2l_ditamap.html",
+   "/data-engineering/data-engineering-quality/h2l/deploy-the-informatica--data-engineering-quality-solution-on-the.html",
+   "/data-engineering/data-engineering-quality/h2l/deploying-the-informatica--data-engineering-quality--10-4-0-micr.html"
+  ]
+ },
+ {
+  "path": "data-engineering/data-engineering-streaming.html",
+  "tier": 2,
+  "title": "Data Engineering Streaming | 10.5.10",
+  "version_page": "/data-engineering/data-engineering-streaming/10-5-10.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/big-data-management/big-data-streaming/10-5-10/en/DataEngineeringStreaming_10.5.10_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-engineering/data-engineering-streaming/h2l/0976-performance-tuning-guidelines-for-lookup-transformations-in.html",
+   "/data-engineering/data-engineering-streaming/h2l/0985-intelligent-streaming-performance-tuning-guidelines.html",
+   "/data-engineering/data-engineering-streaming/h2l/1099-sizing-guidelines-and-performance-tuning-for-intelligent-st.html",
+   "/data-engineering/data-engineering-streaming/h2l/1101-tuning-the-hardware-and-hadoop-cluster-for-informatica-big-.html",
+   "/data-engineering/data-engineering-streaming/h2l/1115-configuring-intelligent-streaming-10-2-for-kafka-on-mapr.html",
+   "/data-engineering/data-engineering-streaming/h2l/1132-how-to-use-topic-patterns-in-kafka-data-objects.html",
+   "/data-engineering/data-engineering-streaming/h2l/1149-how-to-use-topic-patterns-in-maprstreams-data-objects.html",
+   "/data-engineering/data-engineering-streaming/h2l/1187-sizing-guidelines-and-performance-tuning-for-big-data-strea.html",
+   "/data-engineering/data-engineering-streaming/h2l/1257-informatica-10-2-1-big-data-primer.html",
+   "/data-engineering/data-engineering-streaming/h2l/1274-identifying-indirect-and-remote-dependencies-for-an-applica.html",
+   "/data-engineering/data-engineering-streaming/h2l/1275-creating--deploying--and-updating-an-application-in-the-dev.html",
+   "/data-engineering/data-engineering-streaming/h2l/1288-supported-upgrade-paths-to-big-data-10-2-1-service-pack-1.html",
+   "/data-engineering/data-engineering-streaming/h2l/1291-informatica-10-2-2-big-data-primer.html",
+   "/data-engineering/data-engineering-streaming/h2l/1317-sizing-guidelines-and-performance-tuning-for-big-data-strea.html",
+   "/data-engineering/data-engineering-streaming/h2l/1329-how-to-migrate-mappings-from-the-hive-engine.html",
+   "/data-engineering/data-engineering-streaming/h2l/1331-use-case--using-stateful-variables-to-version-data-in-infor.html",
+   "/data-engineering/data-engineering-streaming/h2l/1349-configuring-disaster-recovery-for-streaming-sources-in-big-.html",
+   "/data-engineering/data-engineering-streaming/h2l/1355-configuring-kerberos-enabled-kafka-for-a-big-data-streaming.html",
+   "/data-engineering/data-engineering-streaming/h2l/1381-sizing-guidelines-and-performance-tuning-for-data-engineeri.html",
+   "/data-engineering/data-engineering-streaming/h2l/1383-deploying-the-informatica--data-engineering-streaming-10-4-.html",
+   "/data-engineering/data-engineering-streaming/h2l/1406-deploying-the-informatica--data-engineering-streaming--10-4.html",
+   "/data-engineering/data-engineering-streaming/h2l/1466-enable-ssl-authentication-in-apache-kafka-using-portecle.html",
+   "/data-engineering/data-engineering-streaming/h2l/1477-ingest-bulk-data-from-multiple-kafka-topics-into-hive-or-hd.html",
+   "/data-engineering/data-engineering-streaming/h2l/1479-deploy-the-informatica--data-engineering-streaming-solution.html",
+   "/data-engineering/data-engineering-streaming/h2l/1498-deploy-the--informatica--data-engineering-streaming-solutio.html",
+   "/data-engineering/data-engineering-streaming/h2l/1549-enabling-saml-authentication-with-oracle-access-manager-for.html",
+   "/data-engineering/data-engineering-streaming/h2l/1550-enabling-saml-authentication-with-okta-sso-for-web-applicat.html",
+   "/data-engineering/data-engineering-streaming/h2l/1551-enabling-saml-authentication-with-azure-active-directory-fo.html",
+   "/data-engineering/data-engineering-streaming/h2l/1576-deploy--data-engineering-streaming-on-the-aws-cloud-marketp.html",
+   "/data-engineering/data-engineering-streaming/h2l/1584-deploy-the-informatica--data-engineering-streaming-solution.html",
+   "/data-engineering/data-engineering-streaming/h2l/1638-deploy--data-engineering-streaming-on-the-aws-cloud-marketp.html",
+   "/data-engineering/data-engineering-streaming/h2l/1638-deploy-the-informatica--10-5-1-1--data-engineering-streamin.html",
+   "/data-engineering/data-engineering-streaming/h2l/1646-deploy-the-informatica--data-engineering-streaming-solution.html",
+   "/data-engineering/data-engineering-streaming/h2l/1675-deploy--data-engineering-streaming-on-the-aws-u-s--intellig.html",
+   "/data-engineering/data-engineering-streaming/h2l/1702-deploy-the-informatica---data-engineering-streaming-solutio.html",
+   "/data-engineering/data-engineering-streaming/h2l/1739-deploy-the-informatica---data-engineering-streaming-solutio.html",
+   "/data-engineering/data-engineering-streaming/h2l/1748-deploy-the-informatica--10-5-3--data-engineering-streaming-.html",
+   "/data-engineering/data-engineering-streaming/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-engineering/data-engineering-streaming/h2l/deploy-the-informatica--data-engineering-streaming-solution-on-t.html",
+   "/data-engineering/data-engineering-streaming/h2l/faq--authentication-on-hdinsight-with-enterprise-security-packag.html"
+  ]
+ },
+ {
+  "path": "data-governance-and-quality-cloud/catalog-sources-quick-reference.html",
+  "tier": 2,
+  "title": "Current Version",
+  "version_page": "/data-governance-and-quality-cloud/catalog-sources-quick-reference/current-version.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "data-governance-and-quality-cloud/data-governance-and-catalog.html",
+  "tier": 2,
+  "title": "Data Governance and Catalog | Current Version",
+  "version_page": "/data-governance-and-quality-cloud/data-governance-and-catalog/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-cloud/cloud-data-governance-and-catalog/current-version/en/DataGovernanceandCatalog_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1788-using-slack-to-search-for-cloud-data-governance-and-catalog.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1789-using-microsoft-teams-to-search-for-data-governance-and-cat.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1831-business-asset-type-relationships.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1831-business-asset-type-relationships/landing-page.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1842-understand-data-observability-anomalies-in-data-governance-.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1842-understand-data-observability-anomalies-in-data-governance-/abstract.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1843-metadata-access-control.html",
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1843-metadata-access-control/landing-page.html"
+  ]
+ },
+ {
+  "path": "data-governance-and-quality-cloud/data-marketplace.html",
+  "tier": 2,
+  "title": "Data Marketplace | Current Version",
+  "version_page": "/data-governance-and-quality-cloud/data-marketplace/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-cloud/cloud-data-marketplace/current-version/en/DataMarketplace_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-governance-and-quality-cloud/data-governance-and-catalog/h2l/1843-metadata-access-control/landing-page.html",
+   "/data-governance-and-quality-cloud/data-marketplace/h2l/1843-metadata-access-control.html"
+  ]
+ },
+ {
+  "path": "data-governance-and-quality-cloud/data-profiling.html",
+  "tier": 2,
+  "title": "Data Profiling | Current Version",
+  "version_page": "/data-governance-and-quality-cloud/data-profiling/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-cloud/cloud-data-profiling/current-version/en/DataProfiling_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-governance-and-quality-cloud/data-profiling/h2l/1547-getting-started-with-cloud-data-profiling-rest-api.html",
+   "/data-governance-and-quality-cloud/data-profiling/h2l/1547-getting-started-with-cloud-data-profiling-rest-api/abstract.html",
+   "/data-governance-and-quality-cloud/data-profiling/h2l/1660-run-a-profile-on-databricks-delta-tables-using-azure-databr.html"
+  ]
+ },
+ {
+  "path": "data-governance-and-quality-cloud/data-quality.html",
+  "tier": 2,
+  "title": "Data Quality | Current Version",
+  "version_page": "/data-governance-and-quality-cloud/data-quality/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-cloud/cloud-data-quality/current-version/en/DataQuality_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-governance-and-quality-cloud/metadata-command-center.html",
+  "tier": 2,
+  "title": "Metadata Command Center | Current Version",
+  "version_page": "/data-governance-and-quality-cloud/metadata-command-center/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-cloud/metadata-command-center/current-version/en/MetadataCommandCenter_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-governance-and-quality-cloud/metadata-command-center/h2l/1651-sizing-recommendation-and-performance-optimization-for-meta.html",
+   "/data-governance-and-quality-cloud/metadata-command-center/h2l/1651-sizing-recommendation-and-performance-optimization-for-meta/sizing-recommendation-and-performance-optimization-for-metadata-.html",
+   "/data-governance-and-quality-cloud/metadata-command-center/h2l/1715-predefined-data-element-classifications-in-cloud-data-gover.html",
+   "/data-governance-and-quality-cloud/metadata-command-center/h2l/1843-metadata-access-control.html",
+   "/data-governance-and-quality-cloud/metadata-command-center/h2l/1843-metadata-access-control/landing-page.html"
+  ]
+ },
+ {
+  "path": "data-quality-and-governance/axon-data-governance.html",
+  "tier": 2,
+  "title": "Axon Data Governance | 7.3.8",
+  "version_page": "/data-quality-and-governance/axon-data-governance/7-3-8.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-and-governance/axon-data-governance/7-3-8/en/AxonDataGovernance_7.3.8_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-quality-and-governance/axon-data-governance/h2l/1150-using-axon-data-governance-with-enterprise-data-catalog.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1260-using-rest-api-to-retrieve-links-between-axon-and-external-.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1312-axon-data-governance-6-0-checklist-to-automate-data-quality.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1346-single-sign-on-using-microsoft-azure-active-directory-in-ax.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1347-single-sign-on-using-onelogin-in-axon-data-governance-6-2.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1348-single-sign-on-using-okta-in-axon-data-governance-6-2.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1358-checklist-to-automate-data-quality-rules-in-axon-data-gover.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1512-deploy-the-informatica--axon-data-governance-solution-on-th.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1513-deploy-the-informatica--axon-data-governance-solution-on-th.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1532-install-axon-data-governance-7-1-on-docker-with-the-contain.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1536-single-sign-on-using-okta-in-axon-data-governance.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1567-deploy-axon-data-governance-7-2-on-kubernetes-using-axon-de.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1580-configuring-monitoring-parameters-for-axon-data-governance.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1581-install-axon-data-governance-7-2-on-docker-with-the-contain.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1590-deploy-the-----axon-data-governance-solution-on-the-aws-clo.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1595-deploy-the-----axon-data-governance-solution-on-the-aws-clo.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1596-deploy-the-----axon-data-governance-solution-on-the-microso.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1605-deploy-the-----axon-data-governance-solution-on-the-microso.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1616-deploy-axon-data-governance-7-2-3-on-the-aws-u-s--intellige.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1625-deploy-axon-data-governance-7-2-2-on-kubernetes-using-axon-.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1626-Axon_Upgrade_Paths-H2L.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1652-deploy-axon-data-governance-7-2-3-on-kubernetes-using-axon-.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1659-deploy-axon-data-governance-7-2-3-on-the-aws-marketplace.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1680-deploy-axon-data-governance-7-2-3-on-the-google-cloud-marke.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1689-deploy-axon-data-governance-7-3-on-kubernetes-using-axon-de.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1690-deploy-axon-data-governance-7-3-on-docker-with-the-containe.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1716-deploy-axon-data-governance-7-3-0-1-on-kubernetes-using-axo.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1717-deploy-axon-data-governance-7-3-on-the-aws-marketplace.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1734-deploy-axon-data-governance-7-3-1-on-kubernetes-using-axon-.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1755-how-to-deploy-the---axon-data-governance-solution-on-the-mi.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1756-deploy-axon-data-governance-7-3-1-on-the-aws-marketplace.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/1757-deploy-axon-data-governance-7-3-1-on-the-aws-u-s--intellige.html",
+   "/data-quality-and-governance/axon-data-governance/h2l/_1695_axon_upgrade_paths_73.html"
+  ]
+ },
+ {
+  "path": "data-quality-and-governance/informatica-data-quality.html",
+  "tier": 2,
+  "title": "Informatica Data Quality | 10.5.11",
+  "version_page": "/data-quality-and-governance/informatica-data-quality/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-quality-and-governance/data-quality/10-5-11/en/InformaticaDataQuality_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-quality-and-governance/informatica-data-quality/h2l/0234-using-the-sql-transformation-in-an-informatica-developer-ma.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0236-using-groups-and-roles-to-manage-informatica-access-control.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0252-reading-profiles-in-third-party-applications.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0302-calling-a-web-service-from-a-web-service-consumer-transform.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0310-configuring-https-for-the-administrator-tool-using-a-certif.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0511-viewing-scorecard-lineage.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0532-using-workflow-parameters-and-variables-to-write-to-a-dynam.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0558-informatica-architecture--nodes-and-domains.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0636-replicating-a-glossary-in-a-domain.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0700-how-to-create-keystore-and-truststore-files-for-secure-comm.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0704-bulk-edit-published-or-rejected-business-terms.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0740-joining-model-repository-and-profiling-warehouse-database-v.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0741-running-a-profile-on-wide-tables.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0769-business-glossary-documentation-quick-reference.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0826-creating-glossary-content-using-microsoft-excel.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0827-business-glossary-best-practices.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0840-running-a-column-profile-on-json-and-xml-data-sources.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0859-developing-a-dynamic-mapping-to-manage-metadata-changes-in-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0861-developing-a-dynamic-mapping-to-run-against-different-sourc.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0867-informatica-port-administration.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0884-creating-filters-for-profiles-and-scorecards-using-informat.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0894-configuring-auto-curation-parameters-to-infer-foreign-keys-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0895-creating-a-column-profile-on-a-logical-data-object-in-infor.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0913-relational-pushdown-optimization-best-practices-for-develop.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0914-detecting-outliers-in-column-profile-results-in-informatica.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0924-creating-a-rest-web-service-in-the-informatica-developer-to.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0929-migrating-objects-from-a-model-repository-to-a-powercenter-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0934-migrating-mappings-and-mapplets-from-a-powercenter-reposito.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0948-using-two-factor-authentication-to-connect-to-a-kerberos-en.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0951-using-the-blaze-engine-to-run-profiles-and-scorecards.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0977-using-ldap-authentication-in-an-informatica-domain.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/0996-supported-upgrade-paths-to-informatica-10-2.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1019-creating-column-profiles-on-ldap-data-objects.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1020-profiling-and-discovery-sizing-guidelines.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1031-using-synchronization-in-profiling.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1065-using-the-random-sampling-option-in-profiles.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1066-purging-profile-and-scorecard-results-from-the-profiling-wa.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1079-creating-column-profiles-on-avro-and-parquet-data-sources-i.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1089-configuring-kerberos-authentication-in-an-informatica-domai.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1159-creating-a-parameter-file-for-informatica-developer.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1178-reading-nvarchar-and-nchar-data-from-sap-tables-with-a-jdbc.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1215-connecting-to-oracle-database-cloud-service-from-informatic.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1326-optimizing-the-data-integration-service-to-process-concurre.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1394-deploying-the-informatica--data-quality-10-4-0-aws-marketpl.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1396-deploying-the-informatica--data-quality--10-4-0-microsoft-a.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1448-connect-to-oracle-using-oracle-connection-manager-from-info.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1453-clean-up-the-data-profile-warehouse.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1465-using-the-data-quality-accelerator-for-crisis-response.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1483-deploy-the-informatica--data-quality-solution-on-the-micros.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1500-deploy-the--informatica--data-quality-solution-on-the-aws-c.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1573-deploy--data-quality-on-the-aws-cloud-marketplace--10-5-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1579-10-5-upgrade-paths.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1587-deploy-the-informatica--data-quality-solution-on-the-micros.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1608-install-data-quality-on-docker-with-informatica-deployment-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1641-deploy--data-quality-on-the-aws-cloud-marketplace--10-5-1-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1641-deploy--data-quality-on-the-aws-cloud-marketplace--10-5-1-1.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1644-deploy-the-informatica--data-quality-solution-on-the-micros.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1661-install-data-quality-on-kubernetes-with-informatica-deploym.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1662-install-data-quality-on-docker-with-informatica-deployment-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1673-deploy--data-quality-on-the-aws-u-s--intelligence-community.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1684-deploy-the-informatica--data-quality--10-5-1-1-solution-on-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1700-deploy-the-informatica---data-quality-solution-on-the-aws-c.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1718-install-data-quality-on-kubernetes-with-informatica-deploym.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1719-install-data-quality-on-docker-with-informatica-deployment-.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1742-deploy-the-informatica---data-quality-solution-on-the-aws-c.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/1746-deploy-the-informatica--10-5-3--data-quality-solution-on-th.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/_1650_1051UpgradePaths_H2L.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/configure-an-odbc-connection-to-sap-hana.html",
+   "/data-quality-and-governance/informatica-data-quality/h2l/enabling-saml-authentication-in-an-informatica-10-2-x-domain.html"
+  ]
+ },
+ {
+  "path": "informatica-headless/getting-started-with-informatica-mcp-servers.html",
+  "tier": 2,
+  "title": "Preface",
+  "version_page": "/informatica-headless/getting-started-with-informatica-mcp-servers/current-version/getting-started-with-informatica-mcp-servers/preface.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management-cloud/business-360-console.html",
+  "tier": 3,
+  "title": "Business 360 Console | Current Version",
+  "version_page": "/master-data-management-cloud/business-360-console/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/business-360-console/current-version/en/Business360Console_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/master-data-management-cloud/business-360-console/h2l/1783-informatica-mdm---customer-360-saas-best-practices-guide.html",
+   "/master-data-management-cloud/business-360-console/h2l/1784-enable-customer-managed-keys-for-mdm-saas-on-amazon-web-ser.html",
+   "/master-data-management-cloud/business-360-console/h2l/1785-informatica-mdm-saas-match-and-merge-best-practices-guide.html",
+   "/master-data-management-cloud/business-360-console/h2l/1785-informatica-mdm-saas-match-and-merge-best-practices-guide/abstract.html",
+   "/master-data-management-cloud/business-360-console/h2l/1817-mdm-saas-business-event-payloads.html",
+   "/master-data-management-cloud/business-360-console/h2l/1818-enable-customer-managed-keys-for-mdm-saas-on-microsoft-azur.html",
+   "/master-data-management-cloud/business-360-console/h2l/1840-matching-multi-language-data-in-mdm-saas.html",
+   "/master-data-management-cloud/business-360-console/h2l/1840-matching-multi-language-data-in-mdm-saas/abstract.html",
+   "/master-data-management-cloud/business-360-console/h2l/1844-anonymize-data-in-mdm-saas.html",
+   "/master-data-management-cloud/business-360-console/h2l/1844-anonymize-data-in-mdm-saas/abstract.html",
+   "/master-data-management-cloud/business-360-console/h2l/1847-enable-customer-managed-keys-for-mdm-saas-on-google-cloud.html",
+   "/master-data-management-cloud/business-360-console/h2l/1867-configure-adaptive-ai-matching.html"
+  ]
+ },
+ {
+  "path": "master-data-management-cloud/customer-360-saas.html",
+  "tier": 3,
+  "title": "Customer 360 SaaS | Current Version",
+  "version_page": "/master-data-management-cloud/customer-360-saas/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/customer-360/current-version/en/Customer360SaaS_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management-cloud/multidomain-mdm-saas.html",
+  "tier": 3,
+  "title": "Multidomain MDM SaaS | Current Version",
+  "version_page": "/master-data-management-cloud/multidomain-mdm-saas/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/multidomain-mdm/current-version/en/MultidomainMDMSaaS_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management-cloud/product-360-saas.html",
+  "tier": 3,
+  "title": "Product 360 SaaS | Current Version",
+  "version_page": "/master-data-management-cloud/product-360-saas/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/product-360/current-version/en/Product360SaaS_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management-cloud/reference-360-saas.html",
+  "tier": 3,
+  "title": "Reference 360 SaaS | Current Version",
+  "version_page": "/master-data-management-cloud/reference-360-saas/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/reference-360/current-version/en/Reference360SaaS_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/master-data-management-cloud/reference-360-saas/h2l/1267-Reference-360-Quickstart.html",
+   "/master-data-management-cloud/reference-360-saas/h2l/1837-enhancing-reference-360-ui-performance-for-large-data-sets.html"
+  ]
+ },
+ {
+  "path": "master-data-management-cloud/supplier-360-saas.html",
+  "tier": 3,
+  "title": "Supplier 360 SaaS | Current Version",
+  "version_page": "/master-data-management-cloud/supplier-360-saas/current-version.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management-cloud/supplier-360/current-version/en/Supplier360SaaS_CurrentVersion_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/customer-360-for-salesforce.html",
+  "tier": 3,
+  "title": "Customer 360 for Salesforce | Winter 2023",
+  "version_page": "/master-data-management/customer-360-for-salesforce/winter-2023.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/cloud-mdm-customer-360-for-salesforce/winter-2023/en/Customer360forSalesforce_Winter2023_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/master-data-management/customer-360-for-salesforce/h2l/how-to-verify-addresses--email-addresses--and-phone-numbers-for-.html"
+  ]
+ },
+ {
+  "path": "master-data-management/customer-360-insights.html",
+  "tier": 3,
+  "title": "POST data",
+  "version_page": "/master-data-management/customer-360-insights.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/customer-360.html",
+  "tier": 3,
+  "title": "MDM - Customer 360 | 10.5 HotFix 5",
+  "version_page": "/master-data-management/customer-360/10-5-hotfix-5.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/mdm-customer-360/10-5-hotfix-5/en/MDM-Customer360_10.5HotFix5_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/master-data-management/customer-360/h2l/1330-MDM_Customer_360_Quick_Reference-H2L.html"
+  ]
+ },
+ {
+  "path": "master-data-management/identity-resolution.html",
+  "tier": 3,
+  "title": "Identity Resolution | 10.5 HotFix 3",
+  "version_page": "/master-data-management/identity-resolution/10-5-hotfix-3.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/identity-resolution/10-5-hotfix-3/en/IdentityResolution_10.5HotFix3_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/mdm-cloud-edition.html",
+  "tier": 3,
+  "title": "POST data",
+  "version_page": "/master-data-management/mdm-cloud-edition.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/mdm-registry-edition.html",
+  "tier": 3,
+  "title": "MDM Registry Edition | 10.5 HotFix 3",
+  "version_page": "/master-data-management/mdm-registry-edition/10-5-hotfix-3.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/mdm-registry-edition/10-5-hotfix-3/en/MDMRegistryEdition_10.5HotFix3_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/multidomain-mdm.html",
+  "tier": 3,
+  "title": "Multidomain MDM | 10.5 HotFix 5",
+  "version_page": "/master-data-management/multidomain-mdm/10-5-hotfix-5.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/multidomain-mdm/10-5-hotfix-5/en/MultidomainMDM_10.5HotFix5_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/master-data-management/multidomain-mdm/h2l/0542-mdm-hub-java-user-exits.html",
+   "/master-data-management/multidomain-mdm/h2l/0567-writing-custom-scripts-to-execute-batch-jobs.html",
+   "/master-data-management/multidomain-mdm/h2l/0782-mdm-hierarchy-configuration-tutorial.html",
+   "/master-data-management/multidomain-mdm/h2l/0811-match-rule-configuration-example.html",
+   "/master-data-management/multidomain-mdm/h2l/0906-implementing-a-persistent-identifier-module-in-multidomain-.html",
+   "/master-data-management/multidomain-mdm/h2l/0946-using-the-security-configuration-utility-in-multidomain-mdm.html",
+   "/master-data-management/multidomain-mdm/h2l/0967-migrating-idd-applications-to-the-business-entity-data-mode.html",
+   "/master-data-management/multidomain-mdm/h2l/1057-replacing-user-exits-in-idd-applications.html",
+   "/master-data-management/multidomain-mdm/h2l/1340-multidomain-mdm--how-to-set-up-kerberos-in-a-websphere-envi.html",
+   "/master-data-management/multidomain-mdm/h2l/1441-creating-match-rule-sets-in-provisioning-tool.html",
+   "/master-data-management/multidomain-mdm/h2l/1517-getting-started-with-embedded-activevos-in-multidomain-mdm-.html",
+   "/master-data-management/multidomain-mdm/h2l/1559-configuring-charts-for-a-data-director-dashboard.html",
+   "/master-data-management/multidomain-mdm/h2l/1562-configuring-hierarchy-and-network-relationships.html"
+  ]
+ },
+ {
+  "path": "master-data-management/product-360.html",
+  "tier": 3,
+  "title": "Product 360 | 10.5 HotFix 5",
+  "version_page": "/master-data-management/product-360/10-5-hotfix-5.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/product-360/10-5-hotfix-5/en/Product360_10.5HotFix5_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/relate-360.html",
+  "tier": 3,
+  "title": "Relate 360 | 10.1 HotFix 1",
+  "version_page": "/master-data-management/relate-360/10-1-hotfix-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/mdm-relate-360/10-1-hotfix-1/en/MDMRelate360_10.1HotFix1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "master-data-management/supplier-360.html",
+  "tier": 3,
+  "title": "Supplier 360 | 10.5 HotFix 5",
+  "version_page": "/master-data-management/supplier-360/10-5-hotfix-5.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/master-data-management/mdm-supplier-360/10-5-hotfix-5/en/Supplier360_10.5HotFix5_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "complex-event-processing/informatica-proactive-monitoring.html",
+  "tier": 4,
+  "title": "Informatica Proactive Monitoring | 3.0.2",
+  "version_page": "/complex-event-processing/informatica-proactive-monitoring/3-0-2.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/complex-event-processing/informatica-proactive-monitoring/3-0-2/en/InformaticaProactiveMonitoring_3.0.2_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "complex-event-processing/real-time-alert-manager.html",
+  "tier": 4,
+  "title": "Real-Time Alert Manager | 3.1 HotFix 1",
+  "version_page": "/complex-event-processing/real-time-alert-manager/3-1-hotfix-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/complex-event-processing/real-time-alert-manager/3-1-hotfix-1/en/Real-TimeAlertManager_3.1HotFix1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "complex-event-processing/rulepoint.html",
+  "tier": 4,
+  "title": "RulePoint | 6.2",
+  "version_page": "/complex-event-processing/rulepoint/6-2.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/complex-event-processing/rulepoint/6-2/en/RulePoint_6.2_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-as-a-service/address-verification-(cloud).html",
+  "tier": 4,
+  "title": "Address Verification (Cloud) | 6.8.0",
+  "version_page": "/data-as-a-service/address-verification-(cloud)/6-8-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/address-verification/6-8-0/en/AddressVerification(Cloud)_6.8.0_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-as-a-service/address-verification-(cloud)/h2l/0684-address-verification-best-practices-for-india.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0812-address-verification-5-x-best-practices-for-the-united-king.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0866-updating-south-korea-addresses.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0908-address-verification-5-x-best-practices-for-china-addresses.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0908-address-verification-best-practices-for-china-addresses.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0918-address-verification-5-x-best-practices-for-mexico-addresse.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0918-address-verification-best-practices-for-mexico-addresses.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0974-address-verification-best-practices-for-turkey.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/0975-address-verification-best-practices-for-taiwan.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1001-address-verification-best-practices-for-russian-federation.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1028-creating-an-address-verification-job-in-the-data-quality-ce.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1047-address-verification-5-x-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1047-address-verification-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1059-address-verification-best-practices-for-spain.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1067-address-verification-best-practices-for-italy.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1072-address-verification-5-x-best-practices-for-the-united-stat.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1107-address-verification-5-x-best-practices-for-canada.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1107-address-verification-best-practices-for-canada.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1143-address-verification-best-practices-for-greece.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1168-address-verification-best-practices-for-slovakia.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1193-address-verification-5-x-best-practices-for-australia.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1193-address-verification-best-practices-for-australia.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1219-address-verification-5-x-best-practices-for-argentina.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1219-address-verification-best-practices-for-argentina.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1220-address-verification-best-practices-for-brazil.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1248-address-verification-5-x-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1248-address-verification-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1249-address-verification-5-x-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1249-address-verification-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1250-address-verification-best-practices-for-israel.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1265-address-verification-5-x-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1265-address-verification-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1311-address-verification-primer.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1323-address-verification-best-practices-for-iceland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1334-address-verification-5-x-status-codes.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1454-address-verification-best-practices-for-ireland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1469-address-verification-best-practices-for-thailand.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1629-address-verification-best-practices-for-denmark.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1630-address-verification-best-practices-for-hong-kong.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1631-address-verification-best-practices-for-ukraine.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1632-address-verification-best-practices-for-united-arab-emirate.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1706-address-verification-6-x-best-practices-for-the-united-king.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1709-address-verification-6-x-best-practices-for-the-united-stat.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1758-address-verification-6-x-status-codes.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1773-address-verification-6-x-best-practices-for-australia.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1790-address-verification-6-x-best-practices-for-united-arab-emi.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1791-address-verification-6-x-best-practices-for-ukraine.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1792-address-verification-6-x-best-practices-for-turkey.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1793-address-verification-6-x-best-practices-for-thailand.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1794-address-verification-6-x-best-practices-for-taiwan.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1795-address-verification-6-x-best-practices-for-spain.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1796-address-verification-6-x-best-practices-for-slovakia.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1797-address-verification-6-x-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1798-address-verification-6-x-best-practices-for-russian-federat.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1799-address-verification-6-x-best-practices-for-mexico-addresse.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1800-address-verification-6-x-best-practices-for-italy.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1801-address-verification-6-x-best-practices-for-israel.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1802-address-verification-6-x-best-practices-for-ireland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1803-address-verification-6-x-best-practices-for-iceland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1804-address-verification-6-x-best-practices-for-hong-kong.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1805-address-verification-6-x-best-practices-for-greece.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1806-address-verification-6-x-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1807-address-verification-6-x-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1808-address-verification-6-x-best-practices-for-denmark.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1809-address-verification-6-x-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1810-address-verification-6-x-best-practices-for-china.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1811-address-verification-6-x-best-practices-for-canada.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1812-address-verification-6-x-best-practices-for-brazil.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1813-address-verification-6-x-best-practices-for-argentina.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1816-address-verification-6-x-best-practices-for-austria.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1822-address-verification-6-x-best-practices-for-france.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1823-address-verification-6-x-best-practices-for-japan.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1826-address-verification-6-x-best-practices-for-palestine.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/1826-address-verification-best-practices-for-palestine.html",
+   "/data-as-a-service/address-verification-(cloud)/h2l/_address-verification-best-practices-for-the-united-kingdom_address-verification_h2l_ditamap.html"
+  ]
+ },
+ {
+  "path": "data-as-a-service/address-verification-(on-premises).html",
+  "tier": 4,
+  "title": "Address Verification (On-Premises) | 6.8.0",
+  "version_page": "/data-as-a-service/address-verification-(on-premises)/6-8-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/address-verification-(on-premises)/6-8-0/en/AddressVerification(On-Premises)_6.8.0_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0684-address-verification-5-x-best-practices-for-india.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0684-address-verification-best-practices-for-india.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0812-address-verification-5-x-best-practices-for-the-united-king.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0814-address-verification-best-practices-for-belgium.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0821-address-verification-best-practices-for-switzerland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0822-address-verification-5-x-best-practices-for-france.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0830-address-verification-best-practices-for-the-netherlands.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0866-updating-south-korea-addresses.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0885-address-verification-best-practices-for-south-korea.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0893-address-verification-5-x-best-practices-for-japan-addresses.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0893-address-verification-best-practices-for-japan-addresses.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0908-address-verification-5-x-best-practices-for-china-addresses.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0918-address-verification-5-x-best-practices-for-mexico-addresse.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0974-address-verification-best-practices-for-turkey.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/0975-address-verification-best-practices-for-taiwan.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1001-address-verification-best-practices-for-russian-federation.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1047-address-verification-5-x-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1047-address-verification-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1059-address-verification-best-practices-for-spain.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1067-address-verification-best-practices-for-italy.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1072-address-verification-5-x-best-practices-for-the-united-stat.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1107-address-verification-5-x-best-practices-for-canada.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1143-address-verification-best-practices-for-greece.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1168-address-verification-best-practices-for-slovakia.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1193-address-verification-5-x-best-practices-for-australia.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1219-address-verification-5-x-best-practices-for-argentina.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1248-address-verification-5-x-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1248-address-verification-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1249-address-verification-5-x-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1249-address-verification-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1250-address-verification-best-practices-for-israel.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1254-processing-australia-addresses-in-certified-mode.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1265-address-verification-5-x-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1265-address-verification-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1311-address-verification-primer.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1323-address-verification-best-practices-for-iceland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1334-address-verification-5-x-status-codes.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1454-address-verification-best-practices-for-ireland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1469-address-verification-best-practices-for-thailand.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1522-hot-swapping-reference-data-for-address-verification--on-pr.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1538-processing-united-states-addresses-in-certified-mode.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1599-using-address-verification-in-quickcapture-mode.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1629-address-verification-best-practices-for-denmark.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1630-address-verification-best-practices-for-hong-kong.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1631-address-verification-best-practices-for-ukraine.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1632-address-verification-best-practices-for-united-arab-emirate.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1706-address-verification-6-x-best-practices-for-the-united-king.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1709-address-verification-6-x-best-practices-for-the-united-stat.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1758-address-verification-6-x-status-codes.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1773-address-verification-6-x-best-practices-for-australia.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1790-address-verification-6-x-best-practices-for-united-arab-emi.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1791-address-verification-6-x-best-practices-for-ukraine.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1792-address-verification-6-x-best-practices-for-turkey.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1793-address-verification-6-x-best-practices-for-thailand.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1794-address-verification-6-x-best-practices-for-taiwan.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1795-address-verification-6-x-best-practices-for-spain.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1796-address-verification-6-x-best-practices-for-slovakia.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1797-address-verification-6-x-best-practices-for-singapore.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1798-address-verification-6-x-best-practices-for-russian-federat.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1799-address-verification-6-x-best-practices-for-mexico-addresse.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1800-address-verification-6-x-best-practices-for-italy.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1801-address-verification-6-x-best-practices-for-israel.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1802-address-verification-6-x-best-practices-for-ireland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1803-address-verification-6-x-best-practices-for-iceland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1804-address-verification-6-x-best-practices-for-hong-kong.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1805-address-verification-6-x-best-practices-for-greece.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1806-address-verification-6-x-best-practices-for-germany.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1807-address-verification-6-x-best-practices-for-finland.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1808-address-verification-6-x-best-practices-for-denmark.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1809-address-verification-6-x-best-practices-for-czech-republic.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1810-address-verification-6-x-best-practices-for-china.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1811-address-verification-6-x-best-practices-for-canada.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1812-address-verification-6-x-best-practices-for-brazil.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1813-address-verification-6-x-best-practices-for-argentina.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1816-address-verification-6-x-best-practices-for-austria.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1822-address-verification-6-x-best-practices-for-france.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1823-address-verification-6-x-best-practices-for-japan.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1826-address-verification-6-x-best-practices-for-palestine.html",
+   "/data-as-a-service/address-verification-(on-premises)/h2l/1826-address-verification-best-practices-for-palestine.html"
+  ]
+ },
+ {
+  "path": "data-as-a-service/contact-verification-for-marketo.html",
+  "tier": 4,
+  "title": "Contact Verification for Marketo | 1.0",
+  "version_page": "/data-as-a-service/contact-verification-for-marketo/1-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/contact-verification/1-0/en/ContactVerification_1.0_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-as-a-service/email-verification-plus-hygiene.html",
+  "tier": 4,
+  "title": "Email Verification Plus Hygiene | 6.0",
+  "version_page": "/data-as-a-service/email-verification-plus-hygiene/6-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/email-verification-plus-hygiene/6-0/en/EmailVerificationPlusHygiene_6.0_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-as-a-service/email-verification.html",
+  "tier": 4,
+  "title": "Email Verification | 7.0",
+  "version_page": "/data-as-a-service/email-verification/7-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/email-verification/7-0/en/EmailVerification_7.0_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-as-a-service/global-phone-validation.html",
+  "tier": 4,
+  "title": "Global Phone Validation | 2.0",
+  "version_page": "/data-as-a-service/global-phone-validation/2-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-as-a-service/global-phone-validation/2-0/en/GlobalPhoneValidation_2.0_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-integration/b2b-data-exchange.html",
+  "tier": 4,
+  "title": "B2B Data Exchange | 10.5.4",
+  "version_page": "/data-integration/b2b-data-exchange/10-5-4.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/b2b-data-exchange/10-5-4/en/B2BDataExchange_10.5.4_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/b2b-data-exchange/h2l/1325-how-to-set-up-informatica-managed-file-transfer-gateway-for.html",
+   "/data-integration/b2b-data-exchange/h2l/1570-how-to-set-up-file-server-proxy-for-forward-and-reverse-pro.html"
+  ]
+ },
+ {
+  "path": "data-integration/b2b-data-transformation.html",
+  "tier": 4,
+  "title": "B2B Data Transformation | 10.5.6",
+  "version_page": "/data-integration/b2b-data-transformation/10-5-6.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/b2b-data-transformation/10-5-6/en/B2BDataTransformation_10.5.6_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/b2b-data-transformation/h2l/0473-creating-a-data-processor-transformation-for-an-xml-source.html",
+   "/data-integration/b2b-data-transformation/h2l/0996-supported-upgrade-paths-to-informatica-10-2.html"
+  ]
+ },
+ {
+  "path": "data-integration/data-integration-hub.html",
+  "tier": 4,
+  "title": "Data Integration Hub | 10.5",
+  "version_page": "/data-integration/data-integration-hub/10-5.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/data-integration-hub/10-5/en/DataIntegrationHub_10.5_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/data-integration-hub/h2l/1445-upgrade-paths-to-data-integration-hub-10-4-0.html",
+   "/data-integration/data-integration-hub/h2l/1524-how-to-backup-and-restore-data-integration-hub-repository-a.html",
+   "/data-integration/data-integration-hub/h2l/1598-upgrade-paths-to-data-integration-hub-10-5-0.html",
+   "/data-integration/data-integration-hub/h2l/1729-create-user-defined-security-groups-in-azure.html"
+  ]
+ },
+ {
+  "path": "data-integration/metadata-manager.html",
+  "tier": 4,
+  "title": "Metadata Manager | 10.5.11",
+  "version_page": "/data-integration/metadata-manager/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-integration/metadata-manager/10-5-11/en/MetadataManager_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-integration/metadata-manager/h2l/1122-importing-connections-from-metadata-manager-to-enterprise-i.html",
+   "/data-integration/metadata-manager/h2l/1473-configuring-a-db2-for-z-os-resource-in-metadata-manager.html"
+  ]
+ },
+ {
+  "path": "data-replication/data-replication.html",
+  "tier": 4,
+  "title": "Data Replication | 9.8.0",
+  "version_page": "/data-replication/data-replication/9-8-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-replication/data-replication/9-8-0/en/DataReplication_9.8.0_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-replication/data-replication/h2l/1324-data-replication-failover-to-an-oracle-data-guard-physical-.html"
+  ]
+ },
+ {
+  "path": "data-replication/fast-clone.html",
+  "tier": 4,
+  "title": "Fast Clone | 11.0",
+  "version_page": "/data-replication/fast-clone/11-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-replication/fast-clone/11-0/en/FastClone_11.0_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "data-security-group/data-archive.html",
+  "tier": 4,
+  "title": "Data Archive | 6.5.1",
+  "version_page": "/data-security-group/data-archive/6-5-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-security-group/data-archive/6-5-1/en/DataArchive_6.5.1_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-security-group/data-archive/h2l/0395-using-powerexchange-odbc-connections-in-a-data-archive-reti.html",
+   "/data-security-group/data-archive/h2l/0528-using-powerexchange-to-validate-and-extract-data-in-flat-fi.html",
+   "/data-security-group/data-archive/h2l/0654-retiring-an-application-to-data-vault-with-on-premise-data-.html",
+   "/data-security-group/data-archive/h2l/0655-archiving-data-from-a-custom-application-to-the-informatica.html",
+   "/data-security-group/data-archive/h2l/0935-archive-and-retirement-job-steps-in-data-archive.html",
+   "/data-security-group/data-archive/h2l/0955-high-availability-configuration-for-data-archive-and-the-da.html",
+   "/data-security-group/data-archive/h2l/1654-best-practices-for-using-cloud-storage-to-archive-data-in-d.html",
+   "/data-security-group/data-archive/h2l/_0945_UsingMicrosoftExceltoAccessInformaticaDataVaultTables-H2L.html",
+   "/data-security-group/data-archive/h2l/_0945_UsingMicrosoftExceltoacessInformaticaDataVaultTables-H2L.html"
+  ]
+ },
+ {
+  "path": "data-security-group/data-privacy-management.html",
+  "tier": 4,
+  "title": "Data Privacy Management | 10.5.11",
+  "version_page": "/data-security-group/data-privacy-management/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-security-group/secure-at-source/10-5-11/en/DataPrivacyManagement_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-security-group/data-privacy-management/h2l/0795-secure-source-database-requirements.html",
+   "/data-security-group/data-privacy-management/h2l/0899-secure-source-backup-and-restore-guidelines.html",
+   "/data-security-group/data-privacy-management/h2l/0920-using-the-secure-source-curl-utility.html",
+   "/data-security-group/data-privacy-management/h2l/0965-installing-secure-source-2-5-for-secure-source-repositories.html",
+   "/data-security-group/data-privacy-management/h2l/1096-prerequisites-to-scanning-powercenter-resources-that-are-on.html",
+   "/data-security-group/data-privacy-management/h2l/1103-secure-source-4-0-quick-start-deployment-guide--embedded-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1104-upgrading-secure-source-from-version-3-0-to-4-0.html",
+   "/data-security-group/data-privacy-management/h2l/1118-secure-source-4-0-quick-start-deployment-guide--external-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1125-installing-secure-source-on-a-kerberized-hortonworks-2-6-ex.html",
+   "/data-security-group/data-privacy-management/h2l/1164-prerequisites-for-scanning-a-kerberos-enabled-hive-source.html",
+   "/data-security-group/data-privacy-management/h2l/1205-secure-source-4-5-quick-start-deployment-guide--embedded-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1206-secure-source-4-5-quick-start-deployment-guide--external-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1212-secure-source-data-store-configuration-reference.html",
+   "/data-security-group/data-privacy-management/h2l/1232-connection-details-for-secure-source-scan-jobs.html",
+   "/data-security-group/data-privacy-management/h2l/1257-informatica-10-2-1-big-data-primer.html",
+   "/data-security-group/data-privacy-management/h2l/1277-setting-up-secure-source-scans-to-skip-large-files-in-unstr.html",
+   "/data-security-group/data-privacy-management/h2l/1289-how-to-capture-microstrategy-user-context-through-secure-so.html",
+   "/data-security-group/data-privacy-management/h2l/1327-how-secure-source-calculates-risk-score.html",
+   "/data-security-group/data-privacy-management/h2l/1350-secure-source-5-0-quick-start-deployment-guide--embedded-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1351-secure-source-5-0-quick-start-deployment-guide--external-ha.html",
+   "/data-security-group/data-privacy-management/h2l/1361-generating-user-activity-event-logs-in-secure-source-using-.html",
+   "/data-security-group/data-privacy-management/h2l/1460-deploy-the--informatica--data-privacy-management-solution-o.html",
+   "/data-security-group/data-privacy-management/h2l/1461-configuring-a-subject-registry-entity-in-data-privacy-manag.html",
+   "/data-security-group/data-privacy-management/h2l/1463-assigning-privileges-for-tasks-in-data-privacy-management.html",
+   "/data-security-group/data-privacy-management/h2l/1464-using-regular-expressions-to-specify-folders-in-unstructure.html",
+   "/data-security-group/data-privacy-management/h2l/1476-performing-domain-discovery-on-a-microsoft-sharepoint-sourc.html",
+   "/data-security-group/data-privacy-management/h2l/1507-configuring-data-domains-for-unstructured-sources-in-data-p.html",
+   "/data-security-group/data-privacy-management/h2l/1508-viewing-file-metadata-in-scanned-hdfs-sources.html",
+   "/data-security-group/data-privacy-management/h2l/1509-viewing-unstructured-file-metadata-in-scanned-cloud-sources.html",
+   "/data-security-group/data-privacy-management/h2l/1510-viewing-file-metadata-in-scanned-file-management-sources.html",
+   "/data-security-group/data-privacy-management/h2l/1511-how-to-configure-cyberark-integration-with-data-privacy-man.html",
+   "/data-security-group/data-privacy-management/h2l/1520-configuring-a-subject-registry-entity-in-10-4-1-1.html",
+   "/data-security-group/data-privacy-management/h2l/1521-configuring-incremental-subject-registry-scans-in-data-priv.html",
+   "/data-security-group/data-privacy-management/h2l/1540-configuring-user-activity-detection-in-data-privacy-managem.html",
+   "/data-security-group/data-privacy-management/h2l/1577-deploy--data-privacy-management-on-the-aws-cloud-marketplac.html",
+   "/data-security-group/data-privacy-management/h2l/1637-deploy--data-privacy-management-on-the-aws-cloud-marketplac.html",
+   "/data-security-group/data-privacy-management/h2l/1637-deploy-the-informatica--10-5-1-1--data-privacy-management-o.html",
+   "/data-security-group/data-privacy-management/h2l/1653-how-to-configure-cyberark-integration-with-data-privacy-man.html",
+   "/data-security-group/data-privacy-management/h2l/1686-using-the-snowflake-advanced-scanner-in-data-privacy-manage.html",
+   "/data-security-group/data-privacy-management/h2l/1687-performance-tuning-and-sizing-guidelines-for-data-privacy-m.html",
+   "/data-security-group/data-privacy-management/h2l/1697-deploy-the-informatica---data-privacy-management-solution-o.html",
+   "/data-security-group/data-privacy-management/h2l/1738-deploy-the-informatica---data-privacy-management-solution-o.html",
+   "/data-security-group/data-privacy-management/h2l/_1579_10-5-UpgradePaths_H2L.html",
+   "/data-security-group/data-privacy-management/h2l/_1650_1051UpgradePaths_H2L.html"
+  ]
+ },
+ {
+  "path": "data-security-group/data-privacy-platform.html",
+  "tier": 4,
+  "title": "Privitar Data Privacy Platform | Current Version",
+  "version_page": "/data-security-group/data-privacy-platform/current-version.html",
+  "zips": [],
+  "h2l": []
+ },
+ {
+  "path": "data-security-group/dynamic-data-masking.html",
+  "tier": 4,
+  "title": "Dynamic Data Masking | 9.9.4",
+  "version_page": "/data-security-group/dynamic-data-masking/9-9-4.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-security-group/dynamic-data-masking/9-9-4/en/DynamicDataMasking_9.9.4_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-security-group/dynamic-data-masking/h2l/0718-testing-security-rules-with-the-security-rule-set-simulator.html",
+   "/data-security-group/dynamic-data-masking/h2l/0742-using-the-replace-table-rule-action-to-implement-row-level-.html",
+   "/data-security-group/dynamic-data-masking/h2l/0836-creating-a-jmx-logger-in-dynamic-data-masking.html",
+   "/data-security-group/dynamic-data-masking/h2l/0858-configuring-the-client-for-odbc-connectivity.html",
+   "/data-security-group/dynamic-data-masking/h2l/0907-dynamic-data-masking-multi-server-development-and-deploymen.html",
+   "/data-security-group/dynamic-data-masking/h2l/0943-dynamic-data-masking--capturing-the-set-quotedidentifer-val.html",
+   "/data-security-group/dynamic-data-masking/h2l/1015-ip-address-binding-in-dynamic-data-masking.html",
+   "/data-security-group/dynamic-data-masking/h2l/1184-dynamic-data-masking-default-masking-functionality.html",
+   "/data-security-group/dynamic-data-masking/h2l/1201-enabling-kerberos-for-hive-and-impala-databases-in-dynamic-.html",
+   "/data-security-group/dynamic-data-masking/h2l/1258-how-to-use-the-security-rule-set-simulator-for-microsoft-az.html",
+   "/data-security-group/dynamic-data-masking/h2l/1292-how-to-capture-microstrategy-user-context-through-dynamic-d.html",
+   "/data-security-group/dynamic-data-masking/h2l/1361-generating-user-activity-event-logs-in-secure-source-using-.html",
+   "/data-security-group/dynamic-data-masking/h2l/1462-using-nagios-core-for-monitoring-in-dynamic-data-masking.html",
+   "/data-security-group/dynamic-data-masking/h2l/1525-automating-the-configuration-of-a-generic-jdbc-connection-f.html",
+   "/data-security-group/dynamic-data-masking/h2l/creating-a-custom-logger-to-log-database-access-outside-of-busin.html"
+  ]
+ },
+ {
+  "path": "data-security-group/test-data-management.html",
+  "tier": 4,
+  "title": "Test Data Management | 10.5.11",
+  "version_page": "/data-security-group/test-data-management/10-5-11.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/data-security-group/test-data-management/10-5-11/en/TestDataManagement_10.5.11_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/data-security-group/test-data-management/h2l/0490-implementing-data-masking-and-data-subset-with-sequential-o.html",
+   "/data-security-group/test-data-management/h2l/0572-join-two-tables-with-an-advanced-rule.html",
+   "/data-security-group/test-data-management/h2l/0584-major-and-minor-relationships-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/0652-using-test-data-manager-to-generate-test-data.html",
+   "/data-security-group/test-data-management/h2l/0653-configuring-advanced-properties-for-data-domain-discovery-i.html",
+   "/data-security-group/test-data-management/h2l/0661-using-standard-generation-rules-to-generate-test-data.html",
+   "/data-security-group/test-data-management/h2l/0672-using-conditional-constraints-in-data-generation.html",
+   "/data-security-group/test-data-management/h2l/0678-data-domain-discovery-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/0696-implementing-data-masking-and-data-subset-with-ims-unload-f.html",
+   "/data-security-group/test-data-management/h2l/0727-relationships-and-the-impact-of-optimizing-relationships-in.html",
+   "/data-security-group/test-data-management/h2l/0841-reset-configuration-options-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/0845-data-domain-profiling-and-data-masking-for-hadoop.html",
+   "/data-security-group/test-data-management/h2l/0903-use-column-profile-results-to-generate-test-data.html",
+   "/data-security-group/test-data-management/h2l/0911-create-a-data-set-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/0931-import-a-data-domain-profile-from-informatica-developer-int.html",
+   "/data-security-group/test-data-management/h2l/0933-use-powercenter-mapplets-to-mask-data-in-test-data-manageme.html",
+   "/data-security-group/test-data-management/h2l/0957-configuring-a-hadoop-environment-for-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/0986-export-test-data-from-test-data-management-to-an-hp-alm-ser.html",
+   "/data-security-group/test-data-management/h2l/1000-generating-credit-card-numbers-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/1007-create-and-use-standard-masking-rules-in-test-data-manageme.html",
+   "/data-security-group/test-data-management/h2l/1013-importing-metadata-from-a-netezza-connection-in-test-data-m.html",
+   "/data-security-group/test-data-management/h2l/1014-importing-flat-file-sources-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/1018-importing-metadata-from-an-xml-source-in-test-data-manageme.html",
+   "/data-security-group/test-data-management/h2l/1039-importing-metadata-from-a-teradata-source-in-test-data-mana.html",
+   "/data-security-group/test-data-management/h2l/1043-importing-metadata-from-relational-sources-in-test-data-man.html",
+   "/data-security-group/test-data-management/h2l/1058-importing-metadata-from-powerexchange-connections-in-test-d.html",
+   "/data-security-group/test-data-management/h2l/1063-importing-metadata-from-cassandra-and-mongodb-sources-in-te.html",
+   "/data-security-group/test-data-management/h2l/1100-importing-metadata-from-hive-sources-in-test-data-managemen.html",
+   "/data-security-group/test-data-management/h2l/1165-performing-data-coverage-analysis-in-test-data-management.html",
+   "/data-security-group/test-data-management/h2l/1229-compute-and-create-a-subset-of-a-data-pack-in-the-self-serv.html",
+   "/data-security-group/test-data-management/h2l/1259-oracle-database-privilege-requirements-in-test-data-managem.html",
+   "/data-security-group/test-data-management/h2l/1336-importing-users-from-different-kerberos-realms-in-test-data.html",
+   "/data-security-group/test-data-management/h2l/1338-invoking-test-data-management-rest-apis-using-curl.html",
+   "/data-security-group/test-data-management/h2l/1344-using-a-kerberized-microsoft-sql-server-connection-in-a-ker.html",
+   "/data-security-group/test-data-management/h2l/_1579_10-5-UpgradePaths_H2L.html",
+   "/data-security-group/test-data-management/h2l/_1650_1051UpgradePaths_H2L.html"
+  ]
+ },
+ {
+  "path": "process-automation/informatica-activevos.html",
+  "tier": 4,
+  "title": "Informatica ActiveVOS | 9.2.7 SP 1",
+  "version_page": "/process-automation/informatica-activevos/9-2-7-sp-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/process-automation/informatica-activevos/9-2-7-sp-1/en/InformaticaActiveVOS_9.2.7SP1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ultra-messaging/edge-data-streaming.html",
+  "tier": 4,
+  "title": "Edge Data Streaming | 2.4.0",
+  "version_page": "/ultra-messaging/edge-data-streaming/2-4-0.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ultra-messaging/edge-data-streaming/2-4-0/en/EdgeDataStreaming_2.4.0_DocSet_en.zip"
+  ],
+  "h2l": [
+   "/ultra-messaging/edge-data-streaming/h2l/0733-connecting-to-an-hdfs-cluster-from-informatica-vibe-data-st.html",
+   "/ultra-messaging/edge-data-streaming/h2l/0734-configuring-the-messaging-mode-in-vibe-data-stream-for-mach.html",
+   "/ultra-messaging/edge-data-streaming/h2l/0735-configuring-vibe-data-stream-for-machine-data-on-a-multihom.html"
+  ]
+ },
+ {
+  "path": "ultra-messaging/ultra-messaging-dynamic-routing-option.html",
+  "tier": 4,
+  "title": "Ultra Messaging Dynamic Routing Option | 6.13.1",
+  "version_page": "/ultra-messaging/ultra-messaging-dynamic-routing-option/6-13-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ultra-messaging/ultra-messaging-dynamic-routing-option/6-13-1/en/UltraMessagingDynamicRoutingOption_6.13.1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ultra-messaging/ultra-messaging-persistence-edition.html",
+  "tier": 4,
+  "title": "Ultra Messaging Persistence Edition | 6.13.1",
+  "version_page": "/ultra-messaging/ultra-messaging-persistence-edition/6-13-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ultra-messaging/ultra-messaging-persistence-edition/6-13-1/en/UltraMessagingPersistenceEdition_6.13.1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ultra-messaging/ultra-messaging-queuing-edition.html",
+  "tier": 4,
+  "title": "Ultra Messaging Queuing Edition | 6.13.1",
+  "version_page": "/ultra-messaging/ultra-messaging-queuing-edition/6-13-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ultra-messaging/ultra-messaging-queuing-edition/6-13-1/en/UltraMessagingQueuingEdition_6.13.1_DocSet_en.zip"
+  ],
+  "h2l": []
+ },
+ {
+  "path": "ultra-messaging/ultra-messaging-streaming-edition.html",
+  "tier": 4,
+  "title": "Ultra Messaging Streaming Edition | 6.13.1",
+  "version_page": "/ultra-messaging/ultra-messaging-streaming-edition/6-13-1.html",
+  "zips": [
+   "/content/dam/source/doc-set-zips/ultra-messaging/ultra-messaging-streaming-edition/6-13-1/en/UltraMessagingStreamingEdition_6.13.1_DocSet_en.zip"
+  ],
+  "h2l": []
+ }
+]

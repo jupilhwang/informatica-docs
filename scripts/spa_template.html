@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Informatica 문서 아카이브 · 커리큘럼</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1d2330; --muted:#667085; --line:#e4e7ec; --accent:#ff4d00; --accent2:#1f5eff; --lab:#0e9f6e; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#12141a; --card:#1b1e26; --ink:#e7e9ee; --muted:#98a2b3; --line:#2b2f3a; } }
+  * { box-sizing:border-box; }
+  body { margin:0; font:14px/1.5 -apple-system, "Apple SD Gothic Neo", "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); height:100vh; display:flex; flex-direction:column; }
+  header { display:flex; gap:16px; align-items:center; padding:10px 18px; background:var(--card); border-bottom:1px solid var(--line); }
+  header h1 { font-size:16px; margin:0; white-space:nowrap; } header h1 b { color:var(--accent); }
+  nav { display:flex; gap:4px; }
+  nav a { padding:6px 12px; border-radius:6px; color:var(--muted); text-decoration:none; font-weight:600; }
+  nav a.on { background:var(--accent); color:#fff; }
+  #q { flex:1; max-width:420px; margin-left:auto; padding:7px 10px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--ink); }
+  .wrap { flex:1; display:flex; min-height:0; }
+  main { flex:1; overflow:auto; padding:18px 24px 60px; }
+  aside { width:55%; display:none; flex-direction:column; border-left:1px solid var(--line); background:var(--card); }
+  body.viewing aside { display:flex; }
+  aside .bar { display:flex; gap:8px; align-items:center; padding:8px 12px; border-bottom:1px solid var(--line); }
+  aside .bar strong { flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  aside iframe { flex:1; border:0; width:100%; background:#525659; }
+  button, .btn { font:inherit; padding:4px 10px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--ink); cursor:pointer; text-decoration:none; }
+  .muted { color:var(--muted); } .small { font-size:12px; }
+  .badge { display:inline-block; font-size:11px; font-weight:700; padding:1px 6px; border-radius:4px; border:1px solid var(--line); color:var(--muted); margin-left:4px; vertical-align:1px; }
+  .badge.lab { background:var(--lab); color:#fff; border-color:var(--lab); }
+  .badge.cloud { color:var(--accent2); border-color:var(--accent2); }
+  .badge.onprem { color:var(--accent); border-color:var(--accent); }
+  .roadmap { display:flex; flex-wrap:wrap; gap:8px; margin:6px 0 18px; }
+  .roadmap a { flex:1 1 150px; background:var(--card); border:1px solid var(--line); border-radius:8px; padding:8px 10px; text-decoration:none; color:var(--ink); }
+  .roadmap a b { color:var(--accent); }
+  .meter { height:5px; background:var(--line); border-radius:3px; overflow:hidden; margin-top:6px; }
+  .meter i { display:block; height:100%; background:var(--lab); }
+  details { background:var(--card); border:1px solid var(--line); border-radius:8px; margin:0 0 10px; }
+  summary { cursor:pointer; padding:10px 14px; font-weight:600; list-style-position:outside; }
+  details > .body { padding:0 14px 12px; }
+  ol.steps { margin:6px 0 0; padding-left:22px; }
+  ol.steps li { padding:5px 0; border-top:1px dashed var(--line); }
+  ol.steps li.done a.doc { text-decoration:line-through; color:var(--muted); }
+  a.doc { color:var(--accent2); cursor:pointer; text-decoration:none; } a.doc:hover { text-decoration:underline; }
+  ul.docs { list-style:none; margin:4px 0; padding:0; columns:2 360px; }
+  ul.docs li { padding:2px 0; break-inside:avoid; }
+  h2 { font-size:15px; margin:22px 0 8px; } h3 { font-size:13px; margin:10px 0 4px; color:var(--muted); }
+  details.sum { margin:10px 0; background:var(--bg); }
+  .md { padding:0 16px 10px; } .md h1 { font-size:17px; } .md h2 { font-size:14px; margin:16px 0 6px; color:var(--accent); }
+  .md blockquote { margin:6px 0; padding:6px 12px; border-left:3px solid var(--accent); color:var(--muted); }
+  .md table { border-collapse:collapse; width:100%; margin:6px 0; font-size:13px; }
+  .md th, .md td { border:1px solid var(--line); padding:4px 8px; text-align:left; vertical-align:top; }
+  .md th { background:var(--card); }
+  .active-doc { background:color-mix(in srgb, var(--accent2) 12%, transparent); border-radius:4px; }
+</style>
+</head>
+<body>
+<header>
+  <h1><b>Informatica</b> Docs</h1>
+  <nav><a href="#curriculum">커리큘럼</a><a href="#labs">랩 가이드</a><a href="#library">전체 라이브러리</a></nav>
+  <input id="q" type="search" placeholder="문서 검색 (제목·파일명·제품)  /">
+</header>
+<div class="wrap">
+  <main id="main"></main>
+  <aside>
+    <div class="bar">
+      <strong id="vt"></strong>
+      <button id="vdone">완료 표시</button>
+      <a id="vnew" class="btn" target="_blank">새 탭</a>
+      <button id="vclose">닫기 ✕</button>
+    </div>
+    <iframe id="vf" title="PDF viewer"></iframe>
+  </aside>
+</div>
+<script>
+const DATA = /*__DATA__*/;
+const { products, docs, phases, tiers } = DATA;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const done = new Set(JSON.parse(localStorage.getItem("infa-done") || "[]"));
+const save = () => localStorage.setItem("infa-done", JSON.stringify([...done]));
+let current = null;
+
+const kindBadge = k => `<span class="badge ${k === "Cloud" ? "cloud" : "onprem"}">${k === "Cloud" ? "Cloud" : "On-Prem"}</span>`;
+const docLink = n => {
+  const d = docs[n];
+  return `<a class="doc" data-n="${n}">${esc(d.t)}</a>${d.l ? '<span class="badge lab">LAB</span>' : ""}${d.h ? '<span class="badge">H2L</span>' : ""}`;
+};
+const phaseProgress = ph => {
+  const ns = ph.steps.filter(s => s.doc !== null);
+  return [ns.filter(s => done.has(docs[s.doc].p)).length, ns.length];
+};
+
+function viewCurriculum(focus, scroll = true) {
+  const all = phases.map(phaseProgress).reduce((a, [d, t]) => [a[0] + d, a[1] + t], [0, 0]);
+  let h = `<h2>학습 로드맵 <span class="muted small">— 전체 ${all[0]}/${all[1]} 완료 · 단계별 순서대로 읽기 권장 · LAB = 실습형 문서</span></h2><div class="roadmap">`;
+  for (const ph of phases) {
+    const [d, t] = phaseProgress(ph);
+    h += `<a href="#curriculum/${ph.id}"><b>${ph.id}</b> ${esc(ph.title)}<div class="small muted">${ph.level} · ${ph.track} · ${d}/${t}</div><div class="meter"><i style="width:${t ? 100 * d / t : 0}%"></i></div></a>`;
+  }
+  h += `</div>`;
+  for (const ph of phases) {
+    const [d, t] = phaseProgress(ph);
+    h += `<details id="${ph.id}" ${focus === ph.id ? "open" : ""}><summary>${ph.id}. ${esc(ph.title)} <span class="badge">${ph.level}</span><span class="badge">${ph.track}</span> <span class="muted small">${d}/${t}</span></summary><div class="body"><div class="muted">🎯 ${esc(ph.goal)}</div>${ph.summary ? `<details class="sum" id="${ph.id}-sum"><summary>한 페이지 요약</summary><div class="md">${ph.summary}</div></details>` : ""}<ol class="steps">`;
+    for (const s of ph.steps) {
+      if (s.doc === null) continue;
+      const p = docs[s.doc].p, pr = products[docs[s.doc].i];
+      h += `<li class="${done.has(p) ? "done" : ""}"><input type="checkbox" data-p="${esc(p)}" ${done.has(p) ? "checked" : ""}> ${docLink(s.doc)} <span class="muted small">— ${esc(s.why)} · ${esc(pr.n)}</span></li>`;
+    }
+    h += `</ol></div></details>`;
+  }
+  $("#main").innerHTML = h;
+  if (focus && scroll) document.getElementById(focus)?.scrollIntoView({ block: "start" });
+}
+
+function viewLabs() {
+  let h = `<h2>랩 · 튜토리얼 · Getting Started · Quick Start <span class="muted small">(${docs.filter(d => d.l).length}건)</span></h2>`;
+  for (const t of [1, 2, 3, 4]) {
+    const ns = docs.map((d, n) => n).filter(n => docs[n].l && products[docs[n].i].t === t);
+    if (!ns.length) continue;
+    h += `<h3>Tier ${t} · ${tiers[t]}</h3><ul class="docs">` + ns.map(n => `<li>${docLink(n)} <span class="muted small">${esc(products[docs[n].i].n)}</span></li>`).join("") + `</ul>`;
+  }
+  $("#main").innerHTML = h;
+}
+
+function viewLibrary() {
+  const byProduct = products.map(() => []);
+  docs.forEach((d, n) => byProduct[d.i].push(n));
+  let h = `<h2>전체 라이브러리 <span class="muted small">— ${products.length}개 제품 · ${docs.length}개 PDF · 중요도(Tier) 순</span></h2>`;
+  for (const t of [1, 2, 3, 4]) {
+    h += `<h3>Tier ${t} · ${tiers[t]}</h3>`;
+    products.forEach((p, i) => {
+      if (p.t !== t) return;
+      const ns = byProduct[i], g = ns.filter(n => !docs[n].h), x = ns.filter(n => docs[n].h);
+      const list = (arr, label) => arr.length ? `<h3>${label} (${arr.length})</h3><ul class="docs">${arr.map(n => `<li>${docLink(n)}</li>`).join("")}</ul>` : "";
+      h += `<details><summary>${esc(p.n)} ${kindBadge(p.k)}<span class="badge">${esc(p.v)}</span> <span class="muted small">가이드 ${g.length} · H2L ${x.length}</span></summary><div class="body">`
+        + (ns.length ? list(g, "가이드") + list(x, "How-To Library") : `<p class="muted">PDF 없음 — <a href="${p.web}" target="_blank">웹 문서 열기 ↗</a></p>`)
+        + `</div></details>`;
+    });
+  }
+  $("#main").innerHTML = h;
+}
+
+function viewSearch(q) {
+  const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+  const hits = docs.map((d, n) => n).filter(n => {
+    const d = docs[n], hay = `${d.t} ${d.f} ${products[d.i].n}`.toLowerCase();
+    return terms.every(t => hay.includes(t));
+  });
+  $("#main").innerHTML = `<h2>“${esc(q)}” 검색 결과 <span class="muted small">${hits.length}건${hits.length > 500 ? " (상위 500건 표시)" : ""}</span></h2><ul class="docs">`
+    + hits.slice(0, 500).map(n => `<li>${docLink(n)} <span class="muted small">${esc(products[docs[n].i].n)} ${products[docs[n].i].k === "Cloud" ? "" : "· On-Prem"}</span></li>`).join("") + `</ul>`;
+}
+
+function openDoc(n) {
+  current = n;
+  const d = docs[n], src = encodeURI(d.p);
+  $("#vt").textContent = `${d.t} — ${products[d.i].n}`;
+  $("#vf").src = src; $("#vnew").href = src;
+  $("#vdone").textContent = done.has(d.p) ? "완료 취소" : "완료 표시";
+  document.body.classList.add("viewing");
+  document.querySelectorAll(".active-doc").forEach(e => e.classList.remove("active-doc"));
+  document.querySelectorAll(`a.doc[data-n="${n}"]`).forEach(e => e.classList.add("active-doc"));
+}
+
+// Re-render in place after progress changes: keep open <details> and scroll position.
+function rerender() {
+  const open = [...document.querySelectorAll("details[open]")].map(d => d.id || d.querySelector("summary").textContent);
+  const y = $("#main").scrollTop;
+  route(false);
+  document.querySelectorAll("details").forEach(d => { if (open.includes(d.id || d.querySelector("summary").textContent)) d.open = true; });
+  $("#main").scrollTop = y;
+  if (current !== null) $("#vdone").textContent = done.has(docs[current].p) ? "완료 취소" : "완료 표시";
+}
+
+function toggleDone(p) { done.has(p) ? done.delete(p) : done.add(p); save(); }
+
+function route(scroll = true) {
+  const [view, arg] = (location.hash.slice(1) || "curriculum").split("/");
+  document.querySelectorAll("nav a").forEach(a => a.classList.toggle("on", a.getAttribute("href") === "#" + view));
+  ({ curriculum: () => viewCurriculum(arg, scroll), labs: viewLabs, library: viewLibrary,
+     search: () => viewSearch(decodeURIComponent(arg || "")) }[view] || viewCurriculum)();
+  if (current !== null) document.querySelectorAll(`a.doc[data-n="${current}"]`).forEach(e => e.classList.add("active-doc"));
+}
+
+document.addEventListener("click", e => {
+  const a = e.target.closest("a.doc");
+  if (a) openDoc(+a.dataset.n);
+});
+document.addEventListener("change", e => {
+  if (e.target.matches("input[type=checkbox][data-p]")) { toggleDone(e.target.dataset.p); rerender(); }
+});
+$("#vdone").onclick = () => { toggleDone(docs[current].p); openDoc(current); rerender(); };
+$("#vclose").onclick = () => { document.body.classList.remove("viewing"); $("#vf").src = "about:blank"; current = null; };
+let timer;
+$("#q").addEventListener("input", e => {
+  clearTimeout(timer);
+  timer = setTimeout(() => { location.hash = e.target.value.trim() ? "search/" + encodeURIComponent(e.target.value.trim()) : "curriculum"; }, 200);
+});
+document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); } });
+window.addEventListener("hashchange", () => route());
+route();
+</script>
+</body>
+</html>
