@@ -146,7 +146,7 @@
    {"d": "metadata-command-center", "f": "IntroductionAndGettingStarted", "why": "실습: MCC 시작하기(스캔)"},
    {"d": "data-governance-and-catalog", "f": "IntroductionAndGettingStarted", "why": "실습: CDGC 시작하기"},
    {"d": "data-governance-and-catalog", "f": "UnderstandingTechnicalAssets", "why": "기술 자산·리니지"},
-   {"d": "data-governance-and-catalog", "f": "UnderstandingBusinessAssets", "why": "용어집·정책"},
+   {"d": "data-governance-and-catalog", "f": "AssetManagement", "why": "자산 관리 (구 Business Assets 대체)"},
    {"d": "data-governance-and-catalog", "f": "AssetDiscovery", "why": "자산 검색"},
    {"d": "data-governance-and-catalog", "f": "DataAccessManagement", "why": "데이터 접근 관리"},
    {"d": "data-governance-and-catalog", "f": "MetadataAccessControlHandbook", "why": "메타데이터 접근 제어"},

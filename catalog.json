@@ -1901,10 +1901,10 @@
  {
   "path": "process-automation/informatica-activevos.html",
   "tier": 4,
-  "title": "Informatica ActiveVOS | 9.2.7 SP 1",
-  "version_page": "/process-automation/informatica-activevos/9-2-7-sp-1.html",
+  "title": "Informatica ActiveVOS | 9.2.8",
+  "version_page": "/process-automation/informatica-activevos/9-2-8.html",
   "zips": [
-   "/content/dam/source/doc-set-zips/process-automation/informatica-activevos/9-2-7-sp-1/en/InformaticaActiveVOS_9.2.7SP1_DocSet_en.zip"
+   "/content/dam/source/doc-set-zips/process-automation/informatica-activevos/9-2-8/en/InformaticaActiveVOS_9.2.8_DocSet_en.zip"
   ],
   "h2l": []
  },

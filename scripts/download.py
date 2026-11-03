@@ -1,5 +1,6 @@
 """Download DocSet zips + H2L PDFs from catalog.json, in tier order, into <root>/docs/."""
-import io, json, re, sys, urllib.request, zipfile
+import io, json, re, shutil, sys, urllib.request, zipfile
+from email.utils import parsedate_to_datetime
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from catalog import BASE, UA, follow
@@ -19,11 +20,21 @@ def product_dir(root, p):
     return root / "docs" / TIER_NAMES[p["tier"]] / f"{kind}__{slug}__{version}"
 
 
+def remote_mtime(path):
+    req = urllib.request.Request(BASE + path, headers=UA, method="HEAD")
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return parsedate_to_datetime(r.headers["Last-Modified"]).timestamp()
+
+
 def get_zip(dest, z):
     out = dest / "guides"
-    if out.exists() and any(out.iterdir()):
-        return None
-    zipfile.ZipFile(io.BytesIO(fetch(z))).extractall(out)  # extractall strips ../ and absolute paths
+    if out.exists() and any(out.iterdir()) and remote_mtime(z) <= out.stat().st_mtime:
+        return None  # up to date
+    tmp = dest / "guides.new"
+    shutil.rmtree(tmp, ignore_errors=True)
+    zipfile.ZipFile(io.BytesIO(fetch(z))).extractall(tmp)  # extractall strips ../ and absolute paths
+    shutil.rmtree(out, ignore_errors=True)  # swap only after a complete download
+    tmp.rename(out)
     return None
 
 

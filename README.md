@@ -34,11 +34,11 @@
 | 1_Integration | OnPrem__data-integration__powercenter__10-5-11 | [PC_10510_GettingStarted_en.pdf](docs/00_Lab_Guides/1_Integration/OnPrem__data-integration__powercenter__10-5-11__PC_10510_GettingStarted_en.pdf) |
 | 2_DataQuality_Governance_Catalog | Cloud__claire__claire-gpt__current-version | [CGPT_July2026_IntroductionAndGettingStartedWith(CLAIRE-GPT)_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__claire__claire-gpt__current-version__CGPT_July2026_IntroductionAndGettingStartedWith(CLAIRE-GPT)_en.pdf) |
 | 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-governance-and-catalog__current-version | [DGC_2026July_IntroductionAndGettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-governance-and-catalog__current-version__DGC_2026July_IntroductionAndGettingStarted_en.pdf) |
-| 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-marketplace__current-version | [DMP_July2026_IntroductionAndGettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-marketplace__current-version__DMP_July2026_IntroductionAndGettingStarted_en.pdf) |
+| 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-marketplace__current-version | [DMP_October2026_IntroductionAndGettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-marketplace__current-version__DMP_October2026_IntroductionAndGettingStarted_en.pdf) |
 | 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-profiling__current-version | [CDP_October2026_GettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-profiling__current-version__CDP_October2026_GettingStarted_en.pdf) |
 | 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-profiling__current-version | [1547-getting-started-with-cloud-data-profiling-rest-api.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-profiling__current-version__1547-getting-started-with-cloud-data-profiling-rest-api.pdf) |
 | 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__data-quality__current-version | [IICS_July2026_GettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-quality__current-version__IICS_July2026_GettingStarted_en.pdf) |
-| 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version | [MCC_November2025_IntroductionAndGettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version__MCC_November2025_IntroductionAndGettingStarted_en.pdf) |
+| 2_DataQuality_Governance_Catalog | Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version | [MCC_October2026_IntroductionAndGettingStarted_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version__MCC_October2026_IntroductionAndGettingStarted_en.pdf) |
 | 2_DataQuality_Governance_Catalog | OnPrem__data-catalog__enterprise-data-catalog__10-5-11 | [IN_10510_BusinessGlossaryGettingStartedGuide_en.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/OnPrem__data-catalog__enterprise-data-catalog__10-5-11__IN_10510_BusinessGlossaryGettingStartedGuide_en.pdf) |
 | 2_DataQuality_Governance_Catalog | OnPrem__data-catalog__enterprise-data-catalog__10-5-11 | [1435-getting-started-with-data-domains.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/OnPrem__data-catalog__enterprise-data-catalog__10-5-11__1435-getting-started-with-data-domains.pdf) |
 | 2_DataQuality_Governance_Catalog | OnPrem__data-catalog__enterprise-data-catalog__10-5-11 | [1656-getting-started-with-data-profiling-in-enterprise-data-cata.pdf](docs/00_Lab_Guides/2_DataQuality_Governance_Catalog/OnPrem__data-catalog__enterprise-data-catalog__10-5-11__1656-getting-started-with-data-profiling-in-enterprise-data-cata.pdf) |
@@ -68,7 +68,7 @@
 | 4_Others | OnPrem__data-security-group__data-privacy-management__10-5-11 | [1350-secure-source-5-0-quick-start-deployment-guide--embedded-ha.pdf](docs/00_Lab_Guides/4_Others/OnPrem__data-security-group__data-privacy-management__10-5-11__1350-secure-source-5-0-quick-start-deployment-guide--embedded-ha.pdf) |
 | 4_Others | OnPrem__data-security-group__data-privacy-management__10-5-11 | [1351-secure-source-5-0-quick-start-deployment-guide--external-ha.pdf](docs/00_Lab_Guides/4_Others/OnPrem__data-security-group__data-privacy-management__10-5-11__1351-secure-source-5-0-quick-start-deployment-guide--external-ha.pdf) |
 | 4_Others | OnPrem__data-security-group__test-data-management__10-5-11 | [TDM_10510_GettingStartedGuide_en.pdf](docs/00_Lab_Guides/4_Others/OnPrem__data-security-group__test-data-management__10-5-11__TDM_10510_GettingStartedGuide_en.pdf) |
-| 4_Others | OnPrem__process-automation__informatica-activevos__9-2-7-sp-1 | [_927ServicePack1_GettingStarted_en.pdf](docs/00_Lab_Guides/4_Others/OnPrem__process-automation__informatica-activevos__9-2-7-sp-1___927ServicePack1_GettingStarted_en.pdf) |
+| 4_Others | OnPrem__process-automation__informatica-activevos__9-2-8 | [_928_GettingStarted_en.pdf](docs/00_Lab_Guides/4_Others/OnPrem__process-automation__informatica-activevos__9-2-8___928_GettingStarted_en.pdf) |
 
 ## 1_Integration — Integration (CDI, CDI-PC, CMI/DIR, CAI, PowerCenter, PowerExchange) — 최우선
 
@@ -86,10 +86,10 @@
 | PowerExchange Adapters for PowerCenter | OnPrem | 10-5-11 | 42 | 9 | [열기](docs/1_Integration/OnPrem__data-integration__powerexchange-adapters-for-powercenter__10-5-11) |
 | PowerExchange CDC Publisher | OnPrem | 1-3-1 | 1 | 1 | [열기](docs/1_Integration/OnPrem__data-integration__powerexchange-cdc-publisher__1-3-1) |
 | PowerExchange for CDC and Mainframe | OnPrem | 10-5-11 | 16 | 31 | [열기](docs/1_Integration/OnPrem__data-integration__powerexchange-for-cdc-and-mainframe__10-5-11) |
-| Cloud Data Integration for PowerCenter | Cloud | current-version | 19 | 3 | [열기](docs/1_Integration/Cloud__integration-cloud__cloud-data-integration-for-powercenter__current-version) |
+| Cloud Data Integration for PowerCenter | Cloud | current-version | 21 | 3 | [열기](docs/1_Integration/Cloud__integration-cloud__cloud-data-integration-for-powercenter__current-version) |
 | Data Ingestion and Replication | Cloud | current-version | 15 | 8 | [열기](docs/1_Integration/Cloud__integration-cloud__data-ingestion-and-replication__current-version) |
 | Data Integration Connector Toolkit | Cloud | current-version | 2 | 0 | [열기](docs/1_Integration/Cloud__integration-cloud__data-integration-connector-toolkit__current-version) |
-| Data Integration Connectors | Cloud | current-version | 197 | 73 | [열기](docs/1_Integration/Cloud__integration-cloud__data-integration-connectors__current-version) |
+| Data Integration Connectors | Cloud | current-version | 196 | 73 | [열기](docs/1_Integration/Cloud__integration-cloud__data-integration-connectors__current-version) |
 | Data Integration-Free and PayGo | Cloud | current-version | 65 | 1 | [열기](docs/1_Integration/Cloud__integration-cloud__data-integration-free-and-paygo__current-version) |
 | Data Integration | Cloud | current-version | 17 | 15 | [열기](docs/1_Integration/Cloud__integration-cloud__data-integration__current-version) |
 | Data Loader | Cloud | current-version | 1 | 0 | [열기](docs/1_Integration/Cloud__integration-cloud__data-loader__current-version) |
@@ -126,7 +126,7 @@
 | Data Marketplace | Cloud | current-version | 8 | 1 | [열기](docs/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-marketplace__current-version) |
 | Data Profiling | Cloud | current-version | 6 | 2 | [열기](docs/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-profiling__current-version) |
 | Data Quality | Cloud | current-version | 11 | 0 | [열기](docs/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__data-quality__current-version) |
-| Metadata Command Center | Cloud | current-version | 105 | 4 | [열기](docs/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version) |
+| Metadata Command Center | Cloud | current-version | 117 | 4 | [열기](docs/2_DataQuality_Governance_Catalog/Cloud__data-governance-and-quality-cloud__metadata-command-center__current-version) |
 | Axon Data Governance | OnPrem | 7-3-8 | 12 | 33 | [열기](docs/2_DataQuality_Governance_Catalog/OnPrem__data-quality-and-governance__axon-data-governance__7-3-8) |
 | Informatica Data Quality | OnPrem | 10-5-11 | 30 | 67 | [열기](docs/2_DataQuality_Governance_Catalog/OnPrem__data-quality-and-governance__informatica-data-quality__10-5-11) |
 | Getting Started With Informatica Mcp Servers | Cloud | preface | 0 | 0 | [웹 전용](https://docs.informatica.com/informatica-headless/getting-started-with-informatica-mcp-servers.html) |
@@ -135,7 +135,7 @@
 
 | 제품 | 배포 | 버전 | 가이드 PDF | H2L PDF | 폴더 |
 |---|---|---|---|---|---|
-| Business 360 Console | Cloud | current-version | 41 | 9 | [열기](docs/3_MDM/Cloud__master-data-management-cloud__business-360-console__current-version) |
+| Business 360 Console | Cloud | current-version | 42 | 9 | [열기](docs/3_MDM/Cloud__master-data-management-cloud__business-360-console__current-version) |
 | Customer 360 SaaS | Cloud | current-version | 3 | 0 | [열기](docs/3_MDM/Cloud__master-data-management-cloud__customer-360-saas__current-version) |
 | Multidomain MDM SaaS | Cloud | current-version | 3 | 0 | [열기](docs/3_MDM/Cloud__master-data-management-cloud__multidomain-mdm-saas__current-version) |
 | Product 360 SaaS | Cloud | current-version | 3 | 0 | [열기](docs/3_MDM/Cloud__master-data-management-cloud__product-360-saas__current-version) |
@@ -176,7 +176,7 @@
 | Privitar Data Privacy Platform | Cloud | current-version | 0 | 0 | [웹 전용](https://docs.informatica.com/data-security-group/data-privacy-platform.html) |
 | Dynamic Data Masking | OnPrem | 9-9-4 | 5 | 15 | [열기](docs/4_Others/OnPrem__data-security-group__dynamic-data-masking__9-9-4) |
 | Test Data Management | OnPrem | 10-5-11 | 9 | 36 | [열기](docs/4_Others/OnPrem__data-security-group__test-data-management__10-5-11) |
-| Informatica ActiveVOS | OnPrem | 9-2-7-sp-1 | 9 | 0 | [열기](docs/4_Others/OnPrem__process-automation__informatica-activevos__9-2-7-sp-1) |
+| Informatica ActiveVOS | OnPrem | 9-2-8 | 9 | 0 | [열기](docs/4_Others/OnPrem__process-automation__informatica-activevos__9-2-8) |
 | Edge Data Streaming | OnPrem | 2-4-0 | 5 | 3 | [열기](docs/4_Others/OnPrem__ultra-messaging__edge-data-streaming__2-4-0) |
 | Ultra Messaging Dynamic Routing Option | OnPrem | 6-13-1 | 1 | 0 | [열기](docs/4_Others/OnPrem__ultra-messaging__ultra-messaging-dynamic-routing-option__6-13-1) |
 | Ultra Messaging Persistence Edition | OnPrem | 6-13-1 | 1 | 0 | [열기](docs/4_Others/OnPrem__ultra-messaging__ultra-messaging-persistence-edition__6-13-1) |

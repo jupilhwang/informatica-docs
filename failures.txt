@@ -1,0 +1,15 @@
+ERROR /data-integration/powerexchange-adapters-for-powercenter/h2l/1203-frequently-asked-questions-for-powerexchange-for-google-big/abstract.html HTTP Error 404: Not Found
+ERROR /data-integration/powerexchange-adapters-for-powercenter/h2l/1263-frequently-asked-questions-for-powerexchange-for-snowflake-/abstract.html HTTP Error 404: Not Found
+ERROR /data-integration/powerexchange-adapters-for-powercenter/h2l/1293-amazon-redshift-connector-best-practices/abstract.html HTTP Error 404: Not Found
+ERROR /data-integration/powerexchange-for-cdc-and-mainframe/h2l/handling-inflight-uows-found-at-log-based-eccr-shutdown-on-z-os/handling-inflight-uows-found-at-log-based-eccr-shutdown-on-zos.html HTTP Error 404: Not Found
+ERROR /data-integration/powerexchange-for-cdc-and-mainframe/h2l/importing-a-cobol-or-pl-i-copybook-into-a-powerexchange-data-map/abstract.html HTTP Error 404: Not Found
+ERROR /data-integration/powerexchange-for-cdc-and-mainframe/h2l/installing-powerexchange-on-z-os/abstract.html HTTP Error 404: Not Found
+ERROR /integration-cloud/data-integration-connectors/h2l/1553-configuring-informatica-encryption-for-elastic-mappings-in-.html HTTP Error 404: Not Found
+ERROR /data-catalog/enterprise-data-catalog/h2l/1593-deploy-the-informatica--enterprise-data-catalog--10-5-0-sol.html HTTP Error 404: Not Found
+ERROR /data-catalog/enterprise-data-catalog/h2l/1636-deploy-the-informatica--10-5-1-1--enterprise-data-catalog-o.html HTTP Error 404: Not Found
+ERROR /data-engineering/data-engineering-integration/h2l/0952-deploying-big-data-management--enterprise-data-catalog-and-.html HTTP Error 404: Not Found
+NO_PDF /data-engineering/data-engineering-streaming/h2l/faq--authentication-on-hdinsight-with-enterprise-security-packag.html
+NO_PDF /data-quality-and-governance/informatica-data-quality/h2l/1579-10-5-upgrade-paths.html
+ERROR /data-quality-and-governance/informatica-data-quality/h2l/1608-install-data-quality-on-docker-with-informatica-deployment-.html HTTP Error 404: Not Found
+ERROR /data-as-a-service/address-verification-(cloud)/h2l/1826-address-verification-best-practices-for-palestine.html HTTP Error 404: Not Found
+ERROR /data-as-a-service/address-verification-(on-premises)/h2l/1826-address-verification-best-practices-for-palestine.html HTTP Error 404: Not Found
